@@ -1,0 +1,15 @@
+Counting Letters in a String
+
+Consider a string of n length that has a restricted number of "letters".  Your goal is to count the number of letters in that string and return the number of each individual string.  
+
+Take the following string:
+
+s = "QSRRREVISIHVGQAGVQIGNACWELYCLEHGIQPDGIMSSKNENESFTTFFSETGNSRFVPRAIMVDLEPTVVDEIRTGTYKQLFHPEQMITGKEDAANNYARGHYTVGKEIIDLVLDRTRRLADNCSGLQGFLIFHSFGGGTGSGFTSLLMERLSVDYGKKSKLEFSIYPAPQVSTAVVEPYNSILTTHTTLEHSDXAFMGDNRXPIYEYFVARN"
+
+First, count the number of letters in the string.  Realizing you could just use the len function, try to write your own function to handle this.
+
+Second, now you want to count the number of individual letters.  But one problem is that you do not know how many different letters there are.  Write a function to determine the different letters in the string and return the letters in a list.  [Bonus: How do you know it is correct?  How can you know it is correct?]
+
+Third, now that you know the length and the types of letters in the string, determine the numbers of each letters in the string and return the letters with number of each letter as a dictionary.  
+
+Fourth, now that you have created a dictionary, you need to do something useful with the information.  Create a bar chart using pylab.bar using the letters as xlabels.
