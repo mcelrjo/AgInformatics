@@ -1,10 +1,10 @@
 # Documents and Problem Sets for CSES 7960 - AgInformatics: Python Programming for the Applied Sciences
 
-##### Developed by Dr. Scott McElroy, Professor, Department of Crop, Soil, and Environmental Sciences at Auburn University
+#### Developed by Dr. Scott McElroy, Professor, Department of Crop, Soil, and Environmental Sciences at Auburn University
 
 Sections:
 
-1.  Variables, Slicing, and Mathematical Operations
+1.  Variables, Objects, and Mathematical Operations
 
 2.  Loops and Conditional Statements
 
@@ -26,7 +26,7 @@ Sections:
 
 10.  An Introduction to the Command Line
 
-11.  
+11.  Git and Github
 
 
 
