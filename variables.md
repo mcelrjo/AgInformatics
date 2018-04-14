@@ -152,6 +152,121 @@ Complex examples of scoping abound on the old interweb.  Just Google "scoping ru
 
 ### Types of Variables/Objects: Booleans
 
-Booleans are 
+Booleans are True/False values.  They are binary values that will be returned from the use of logical operators.  Notice that the syntax for booleans are capitalized True or False.  Booleans will be very important when we get into conditional statements that need to take a specific action when once a given answer has been reached. :+1:
+
+```python
+first = True
+second = False
+
+#Try some logical operation
+
+first == second
+first != second
+
+first is not second
+
+bool(1)
+
+bool(0)
+```
+[More on Booleans](https://docs.python.org/2.3/whatsnew/section-bool.html)
+
+### Mutability
+
+As we get into the final data types, the question of mutability will arise.  Mutability is just a fancy way to say is something changable after it has been instantiated.  Some data types will be mutable whereas others will not be able to be changed, referred to as immutable.
+
+### Types of Variables/Objects: Strings
+
+Strings are created by enclosing characters in single or double quotes.  Python accepts single or double quotes but single or double quotes cannot be mixed.
+
+```python
+myString = "Dr. McElroy is awesome says everyone."
+print myString
+```
+Strings are mutable so they can be changed.  Mutability can be seen by simply adding more characters to the end of the phrase.
+```python
+myString = myString + " This is a fact."
+print myString
+```
+Notice how the additional string was added to the first string by using the mathematical operator and that this was able to be done by using the variable itself.  This may seem a little strange but this is how it works.  When you assign an object to a name, the first thing that occurs is everything to the right of the equal sign.  So in this case the "myString" and the new string are concatenated together to create an entirely new string.  After the newString is established, it is assigned to the name at the left of the equal sign overwriting the previous name.  It is this order of operations that allows for this to occur.  
+
+So, strings are mutable.  Strings are also indexed making them callable using slicing. For a given string, "string" the "s" is in the 0 position, "t" is in the 1 position, "r" in the 2 position, so on and so forth.  Starting indexing with 0 or 1 varies with language.  Python starts indexing at 0 whereas R indexes starting at 1.  Try out the following code.
+
+```python
+myString = "Dr. McElroy is awesome.  Everyone loves him."
+myString[0]
+myString[1]
+#the previous two just return the value at that position.  Let's try slicing now.
+myString[0:1]
+```
+Notice how the last command only returned "D" and not "Dr".  When slicing, the second number is not going to be returned, only the part of the string up to that position.  You can also put in three numbers in the bracket to call positions in a string intermittenly.
+```python
+#Here are a few methods to call every other element of a string from beginning to end.
+myString[0::2]
+myString[0:-1:2]
+#-1 is just another way to get the last position.  Alternatively if you just leave   # the middle number blank in the slice call it will utilize the entire string.  A    # more #creative way is to do the following.
+lastPosition = len(myString)
+myString[0:lastPosition:2]
+```
+The _len()_ function calls the length of a given string (list, tuple, or dictionary).
+
+A string can be called in reverse order.
+```python
+myString[::-1]
+```
+Becoming comfortable with the string data type is critical.  Spend some time with the following links to become familiar with other aspects of strings.
+[Tutorials Point - Strings](https://www.tutorialspoint.com/python/python_strings.htm)
+
+### Types of Variables/Objects: Lists and Tuples
+
+Lists, Tuples, and Dictionaries are ways of producing collections of other objects.  Lists and Tuples are (for our purposes) essentially the same thing except lists are mutable and tuples are immutable.  Lists are instantiated with brackets whereas Tuples are instantiated with parenthesis.  
+
+Lists and tuples are also indexed, thus making them callable and sliceable (is that even a word?).  So you can get object from a list or tuple easily.  You can also add to lists by positions or just add to the end of a list.  But not tuples of course because they are not mutable.  
+```python
+fruits = ['apple', 'pear', 'banana']
+
+fruits[0]
+
+fruits.append('kiwi')
+
+print fruits
+
+len(fruits)
+
+fruits[0] = 'grapes'
+
+print fruits
+
+```
+In the above, the append function was demonstrated.  This is one of many functions that can be applied to lists using dot notation.  In this case dot notation works by taking the created object, placing a period after it and then typing append.  Sicne append is a function, you then open parenthesis and enter what you would like to append.  You can see the other dot notation functions in Canopy by typing the list object name, followed by a period, then tab to auto complete and return a list of possible functions.  Google some of them and try them out to learn more about them.  
+
+Within a list you can mix the different data types and basically have lists of anything.  You can even have lists of lists-- even lists, within lists, within lists. If it is an object it can be contained within a list.
+
+_Tuples_ function the same was as lists except they are immutable.  So when they are created that is it.  This is beneficial for creating a collection of objects and making sure they do not change over time (which some objects can strangely do). Try creating a tuple using () and then check out the possibility of dot notation associated with the created tuple object -- there is not much functionality to a tuple.
+
+### Types of Variables/Objects: Dictionaries
+
+Dictionaries, also referred to as libraries, are collections of objects with associated key-value pairs.  Dictionaries are extremely useful for creating collection of objects and making them referenceable via a key.  Dictionaries are instantiated with curly brackets/braces {} and key to value are associated by a colon, and different key-value pars are separated by commas.  
+```python
+students = {'Kevin': ['93', '9873452', 'Virgo'], 'Shirley':['88', '8977652', 'Gemini'], 'Ursula':['99', '9812365', 'Leo']}
+
+print students['Kevin']
+
+print students['Kevin'][0]
+
+#You can append a new key:value pair
+
+students['Nox'] = ['87','9873421','Sagittarius']
+
+#Print the keys of a dictionary
+
+print students.keys()
+
+#what happens when you leave off the parenthesis?
+
+print student.keys
+
+#notice how it printed information about the "object" itself.  More on this later.
+```
 
 :octocat:

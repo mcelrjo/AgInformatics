@@ -6,7 +6,7 @@ Sections:
 
 1.  Variables, Objects, and Mathematical Operations
 
-2.  Loops and Conditional Statements
+2.  Conditional Statements and Iteration (Loops)
 
 3.  Functions
 
