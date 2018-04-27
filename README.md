@@ -4,11 +4,11 @@
 
 Sections:
 
-1.  Variables, Objects, and Mathematical Operations
+1.  [Variables, Objects, and Mathematical Operations](https://github.com/mcelrjo/AgInformatics/blob/master/variables.md)
 
-2.  Conditional Statements and Iteration (Loops)
+2.  [Conditional Statements and Iteration (Loops)](https://github.com/mcelrjo/AgInformatics/blob/master/conditionalIteration.md)
 
-3.  Functions
+3.  [Functions](https://github.com/mcelrjo/AgInformatics/blob/master/functions.md)
 
 4.  Opening Files
 
