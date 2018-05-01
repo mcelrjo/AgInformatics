@@ -1,0 +1,1041 @@
+﻿This is the file GUTINDEX.1997
+
+Last Updated on July 23, 2015
+
+See the file GUTINDEX.ALL for all Project Gutenberg eBooks.
+
+
+                         -=] INTRODUCTION [=-
+
+GUTINDEX.1997 is a plain text listing of eBooks posted to the Project
+Gutenberg collection between January 1, 1997 and December 31, 1997
+with eBook numbers starting at 769 and ending with 1152.
+
+It is not a database, but it is useful for identifying eBooks so that they
+can be downloaded or read online.
+
+
+GET EBOOKS FROM PROJECT GUTENBERG
+
+The easiest and quickest way to obtain one specific eBook is via our search
+page at
+
+       http://www.gutenberg.org/catalog/world/search
+
+where you can search by the eBook number for the particular book you want.
+
+
+Other search engines at Project Gutenberg will provide you with more
+information on more books by the same author using the same ebook
+number, such as:
+
+          http://www.gutenberg.org/ebooks/
+
+or even:
+
+      http://www.gutenberg.org/browse/authors/a
+
+
+SITE MAP
+
+If you're interested, here is the Site Map to Project Gutenberg:
+
+          http://www.gutenberg.org/
+
+
+DOWNLOAD AN EBOOK TO YOUR MOBILE DEVICE
+
+If your device is Internet-enabled, just visit the catalog page for a book
+and download one of the formats your device can display. If your device is
+not Internet-enabled, then download to a computer and transfer the book's
+file to your device using a USB cable or similar method. If your device
+utilizes a different format from those available at Project Gutenberg you
+will have to obtain an app to convert your ebook to your device's format.
+
+
+MIRROR SITES
+
+Mirrors (copies) of the complete collection are available around the
+world and you can select one nearer to your location from the link on the
+search results page. However, if you have access to the world wide web
+(www) the direct links above are much simplier.
+
+To see a listing of mirror sites, and locate the one nearest to you,
+visit:
+
+  http://www.gutenberg.org/MIRRORS.ALL
+
+Copy the URL of your choice and paste it in a new tab in your browser and
+tap the "Enter" key on your keyboard.
+
+
+DIRECT ACCESS
+
+To directly access the file directories:
+
+  http://www.gutenberg.org/dirs/
+    - or -
+  ftp://www.gutenberg.org/pub/docs/books/gutenberg/
+
+
+PLAIN TEXT
+
+Whenever possible, Project Gutenberg distributes a plain text version of an
+eBook (.txt) in addition to several other choices. We stress the inclusion of plain
+text because it is the "lowest common denominator" of formats and for its
+longevity. Since Project Gutenberg began, dozens of widely used file formats have
+come and gone, but the text format still remains. Text is accessible on all
+computers and is insurance against future obsolescence.
+
+The only times when Project Gutenberg distributes an eBook without a plain text
+version are when plain text is impossible or impractical -- for example, for our
+videos and MP3 audio files, and for some of our mathematical works.
+
+     (Please note that files ending in .tex are mainly technical writings
+      in TeX or LaTeX format, and should not be confused with text files.)
+
+
+ZIP FILES
+
+Files ending in .zip are compressed using the Zip method. This saves space
+and should result in faster downloads. Many include images or support files.
+Whenever practical, Project Gutenberg files are available as a zipped file.
+These files will be found under "More Files..." on the ebook download page.
+
+
+SUBMITTING NEW EBOOKS
+
+If you are considering adding a new eBook to the Project Gutenberg
+collection, Please make sure that any books you want to work on are _not_
+already in the collection.  To see what is already online, refer to the
+listing below.  Also, please be sure to check David Price's "In Progress"
+list at:
+
+  http://pglaf.org/~ccx074/gutip.html
+
+to ensure no one is currently working on your selection.
+
+
+COPYRIGHT CLEARANCE
+
+It would also be helpful if you obtain copyright clearance prior to submitting
+books. More information on this can be found at:
+
+  http://www.gutenberg.org/
+
+
+CORRECTIONS
+
+To report an error in the listings, please email to help2017@pglaf.org and
+include the word CORRECTION in the subject line.
+
+
+ONLINE DATABASE
+
+The online database can be accessed at
+
+ http://www.gutenberg.org/catalog/.
+
+
+APPENDIX
+
+Please see the Appendix at the end of each eBook catalog for some
+general comments and clarification.
+
+
+                               <==LISTINGS==>
+
+**** A "C" Following a Project Gutenberg eBook Number Indicates Copyright ****
+
+   **** The Language of the eBooks is English, unless otherwise noted ****
+
+
+~ ~ ~ ~ Posting Dates for the below eBooks:  1 Jan 1997 to 31 Dec 1997 ~ ~ ~ ~
+
+TITLE and AUTHOR                                                     ETEXT NO.
+
+The Story of the Volsungs, by Anonymous                                   1152
+ [Title a.k.a. Volsunga Saga]
+ [Subtitle: With Excerpts from the Poetic Edda]
+
+The Nibelungenlied, by Unknown                                            1151
+
+The Danish History, Books 1 through 9, by Saxo Grammaticus                1150
+ [Author a.k.a. "Saxo the Learned"]
+
+From London to Land's End, by Daniel Defoe                                1149
+ [Subtitle: and Two Letters from the "Journey
+  through England by a Gentleman"]
+
+The Itinerary of Archibishop Baldwin through Wales,                       1148
+ by Giraldus Cambrensis
+
+From This World to the Next, by Henry Fielding                            1147
+
+Journal of A Voyage to Lisbon, by Henry Fielding                          1146
+
+Rupert of Hentzau, by Anthony Hope                                        1145
+ [Subtitle: From The Memoirs of Fritz Von Tarlenheim:
+  The Sequel to The Prisoner of Zenda]
+
+In the Cage, by Henry James                                               1144
+
+Notes on Life and Letters, by Joseph Conrad                               1143
+
+Typhoon, by Joseph Conrad                                                 1142
+
+Selected Poems of Oscar Wilde                                             1141
+ [Subtitle: including The Ballad of Reading Gaol]
+
+Latter-Day Pamphlets, by Thomas Carlyle                                   1140
+
+Fisherman's Luck, by Henry van Dyke                                       1139
+
+The Research Magnificent, by H. G. Wells                                  1138
+
+A Lover's Complaint, by William Shakespeare                               1137C
+
+King Henry VIII, by William Shakespeare                                   1136C
+
+The Tempest, by William Shakespeare                                       1135C
+
+The Winter's Tale, by William Shakespeare                                 1134C
+
+Cymbeline, by William Shakespeare                                         1133C
+
+The Life of Timon of Athens, by William Shakespeare                       1132C
+
+The Tragedy of Coriolanus, by William Shakespeare                         1131C
+
+Antony and Cleopatra, by William Shakespeare                              1130C
+
+Macbeth, by William Shakespeare                                           1129C
+
+King Lear, by William Shakespeare                                         1128C
+
+Othello, The Moor of Venice, by William Shakespeare                       1127C
+
+Measure for Measure, by William Shakespeare                               1126C
+
+All's Well that End's Well, by William Shakespeare                        1125C
+
+History of Troilus and Cressida, by William Shakespeare                   1124C
+
+Twelfth Night; or What You Will, by William Shakespeare                   1123C
+
+Hamlet, Prince of Denmark, by William Shakespeare                         1122C
+
+As You Like It, by William Shakespeare                                    1121C
+
+Julius Caesar, by William Shakespeare                                     1120C
+
+King Henry V, by William Shakespeare                                      1119C
+
+Much Ado about Nothing, by William Shakespeare                            1118C
+
+King Henry IV, Part 2, by William Shakespeare                             1117C
+
+The Merry Wives of Windsor, by William Shakespeare                        1116C
+
+King Henry IV, Part 1, by William Shakespeare                             1115C
+
+The Merchant of Venice, by William Shakespeare                            1114C
+
+A Midsummer Night's Dream, by William Shakespeare                         1113C
+
+Romeo and Juliet, by William Shakespeare                                  1112C
+
+King Richard II, by William Shakespeare                                   1111C
+
+King John, by William Shakespeare                                         1110C
+
+Love's Labour's Lost, by William Shakespeare                              1109C
+
+Two Gentlemen of Verona, by William Shakespeare                           1108C
+
+The Taming of the Shrew, by William Shakespeare                           1107C
+
+Titus Andronicus, by William Shakespeare                                  1106C
+
+The Shakespearian Sonnets, by William Shakespeare                         1105C
+
+The Comedy of Errors, by William Shakespeare                              1104C
+
+King Richard III, by William Shakespeare                                  1103C
+
+King Henry the Sixth, Part 3, by William Shakespeare                      1102C
+
+King Henry the Sixth, Part 2, by William Shakespeare                      1101C
+
+King Henry the Sixth, Part 1, by William Shakespeare                      1100C
+
+The Riverman, by Stewart Edward White                                     1099
+
+The Turmoil, A Novel, by Booth Tarkington                                 1098
+
+Mrs. Warren's Profession, by George Bernard Shaw                          1097
+
+The Faith of Men, by Jack London                                          1096
+
+The Light of Western Stars, by Zane Grey                                  1095
+
+Tamburlaine the Great, Part I, by Christopher Marlowe                     1094
+
+The Beast in the Jungle, by Henry James                                   1093
+
+The Description of Wales, by Geraldus Cambrensis                          1092
+
+Heroes and Hero Worship, by Thomas Carlyle                                1091
+
+The Bickerstaff-Partridge Papers, by Jonathan Swift                       1090
+
+Moon-Face and Other Stories, by Jack London                               1089
+
+Rolf In The Woods, by Ernest Thompson Seton                               1088
+
+Baartock, by Lewis Roth                                                   1087C
+
+A Horse's Tale, by Mark Twain                                             1086
+ [Illustrator: Lucius Hitchcock]
+
+The Life of John Sterling, by Thomas Carlyle                              1085
+
+Recipes Tried and True, by Presbyterian Ladies' Aid                       1084
+
+The Arrow of Gold, by Joseph Conrad                                       1083
+
+Voyage of The Paper Canoe, by Nathaniel H. Bishop                         1082
+
+Dead Souls, by Nikolai Vasilievich Gogol                                  1081
+
+A Modest Proposal, by Jonathan Swift                                      1080
+ [Subtitle: For preventing the children of poor people in
+  Ireland, from from being a burden on their parents or
+  country, and for making them beneficial to the publick]
+
+The Life and Opinions of Tristram Shandy, Gentleman, by Laurence Sterne   1079
+
+The Scouts of the Valley, by Joseph A. Altsheler                          1078
+
+The Mirror of Kong Ho, by Ernest Bramah                                   1077
+
+The Wallet of Kai Lung, by Ernest Bramah                                  1076
+
+The Strength of the Strong, by Jack London                                1075
+
+The Sea Wolf, by Jack London                                              1074
+
+Not Used                                                                  1073
+
+Not Used                                                                  1072
+
+Not Used                                                                  1071
+
+Not Used                                                                  1070
+
+Nana and Other Stories, by Emile Zola                                     1069
+
+Personal Memoirs of U. S. Grant, Vol. 2                                   1068
+
+Personal Memoirs of U. S. Grant, Vol. 1                                   1067
+
+William the Conqueror, by Edward Augustus Freeman                         1066
+
+The Cask of Amontillado, by Edgar Allan Poe                               1065
+
+The Masque of the Red Death, by Edgar Allan Poe                           1064
+
+The Raven, by Edgar Allan Poe                                             1063
+
+First Project Gutenberg Collection of Edgar Allan Poe                     1062
+
+Myths and Myth-Makers, by John Fiske                                      1061
+ [Subtitle: Old Tales and Superstitions Interpreted
+  by Comparative Mythology]
+
+Grass of Parnassus, by Andrew Lang                                        1060
+ [Subtitle: Rhymes Old and New]
+
+The World Set Free, by H. G. Wells                                        1059
+
+The Mirror of the Sea, by Joseph Conrad                                   1058
+ [Subtitle: Memories and Impressions]
+
+Poems, by Oscar Wilde                                                     1057
+ [Subtitle: with the Ballad of Reading Gaol]
+
+Martin Eden, by Jack London                                               1056
+
+Twixt Land & Sea, by Joseph Conrad                                        1055
+ [Subtitle: Tales]
+
+A Collection of Ballads, by Andrew Lang                                   1054
+
+Within The Tides, by Joseph Conrad                                        1053
+
+Step by Step, or, Tidy's Way to Freedom, by The American Tract Society    1052
+
+Sartor Resartus, by Thomas Carlyle                                        1051
+ [Subtitle: The Life and Opinions of Herr Teufelsdrockh]
+
+Dark Lady of the Sonnets, by George Bernard Shaw                          1050
+
+Vanished Arizona, by Martha Summerhayes                                   1049
+ [Subtitle: Recollections of the Army Life by a New England Woman]
+
+The Ruling Passion, by Henry van Dyke                                     1048
+
+The New Machiavelli, by H. G. Wells                                       1047
+
+God The Invisible King, by H. G. Wells                                    1046
+
+Venus and Adonis, by William Shakespeare                                  1045
+
+Extract from Captain Stormfield's Visit to Heaven, by Mark Twain          1044
+ [Illustrator: Albert Levering]
+
+The Story of Evolution, by Joseph McCabe                                  1043
+
+A Reading of Life, by George Meredith                                     1042
+ [Subtitle: with Other Poems]
+
+Shakespeare's Sonnets, by William Shakespeare                             1041
+
+The Three Taverns, by Edwin Arlington Robinson                            1040
+
+Missionary Travels and Researches in South Africa, by David Livingstone   1039
+ [Subtitle: Journeys and Researches in South Africa]
+
+Style, by Walter Raleigh                                                  1038
+
+The Life of John Bunyan, by Edmund Venables                               1037
+
+Joe Wilson and His Mates, by Henry Lawson                                 1036
+
+The Man Against the Sky, by Edwin Arlington Robinson                      1035
+
+Poems, by Wilfred Owen                                                    1034
+
+Rose O' the River, by Kate Douglas Wiggin                                 1033
+
+The Pupil, by Henry James                                                 1032
+
+Charmides and Other Poems, by Oscar Wilde                                 1031
+
+The Cavalier Songs and Ballads of England, by Various                     1030
+ [Subtitle: from 1642 to 1684]
+
+The Night-Born, by Jack London                                            1029
+
+The Professor, by Currer Bell                                             1028
+ [Author a.k.a. Charlotte Bronte]
+
+The Lone Star Ranger, by Zane Grey                                        1027
+
+Diary of a Nobody, by George and Weedon Grossmith                         1026
+
+Essays, Vol. 1, by Benjamin Rumford                                       1025
+
+The Wrecker, by Robert Louis Stevenson and Lloyd Osbourne                 1024
+
+Bleak House, by Charles Dickens                                           1023
+
+Walking, by Henry David Thoreau                                           1022
+
+The Congo and Other Poems, by Vachel Lindsay                              1021
+
+Sword Blades and Poppy Seed, by Amy Lowell                                1020
+
+Poems, by Currer, Ellis, and Acton Bell                                   1019
+ [Authors a.k.a. Charlotte, Emily, and Anne Bronte]
+
+The Water-Babies by Charles Kingsley                                      1018
+
+The Soul of Man Under Socialism, by Oscar Wilde                           1017
+
+On the Improvement of the Understanding, by Baruch Spinoza                1016
+ [Author a.k.a. Benedict de Spinoza]
+ [Subtitle: Treatise on the Emendation of the Intellect]
+
+The Oregon Trail, by Francis Parkman, Jr.                                 1015
+
+The Lure of the Dim Trails, by B. M. Bower                                1014
+ [Author a.k.a B. M. Sinclair]
+
+The First Men In The Moon, by H. G. Wells                                 1013
+
+La Divina Commedia di Dante, completare, di Dante Alighieri               1012
+ [Language: Italian]
+
+La Divina Commedia di Dante: Paradiso, di Dante Alighieri                 1011
+ [Language: Italian]
+
+La Divina Commedia di Dante: Purgatorio, di Dante Alighieri               1010
+ [Language: Italian]
+
+La Divina Commedia di Dante: Inferno, di Dante Alighieri                  1009
+ [Language: Italian]
+
+Divine Comedy, Complete, by Dante Alighieri                               1008
+
+Divine Comedy, Paradise, by Dante Alighieri                               1007
+
+Divine Comedy, Purgatory, by Dante Alighieri                              1006
+
+Divine Comedy, Hell, by Dante Alighieri                                   1005
+
+Divine Comedy, Complete, by Dante Alighieri                               1004
+ [Translator: Henry Wadsworth Longfellow]
+
+Divine Comedy, Paradise, by Dante Alighieri                               1003
+ [Translator: Henry Wadsworth Longfellow]
+
+Divine Comedy, Purgatory, by Dante Alighieri                              1002
+ [Translator: Henry Wadsworth Longfellow]
+
+Divine Comedy, Inferno, by Dante Alighieri                                1001
+ [Translator: Henry Wadsworth Longfellow]
+
+La Divina Commedia di Dante, completare, di Dante Alighieri               1000
+ [Language: Italian]
+
+Divina Commedia di Dante: Paradiso, di Dante Alighieri                     999
+ [Language: Italian]
+
+Divina Commedia di Dante: Purgatorio, di Dante Alighieri                   998
+ [Language: Italian]
+
+Divina Commedia di Dante: Inferno, di Dante Alighieri                      997
+ [Language: Italian]
+
+Don Quixote, by Miqeul de Cervantes Saavedra                               996
+
+Ballads of a Bohemian, by Robert W. Service                                995
+
+Riders to the Sea, by J. M. Synge                                          994
+
+Malbone: An Oldport Romance, by Thomas W. Higginson                        993
+
+A Theological-Political Treatise, Part 4, by Benedict of Spinoza           992
+
+A Theological-Political Treatise, Part 3, by Benedict of Spinoza           991
+
+A Theological-Political Treatise, Part 2, by Benedict of Spinoza           990
+
+A Theological-Political Treatise, Part 1, by Benedict of Spinoza           989
+
+The Education of the Child, by Ellen Key                                   988
+
+Popular Science Monthly, Oct, Nov, Dec, 1915,                              987
+
+Master and Man, by Leo Tolstoy                                             986
+
+Father Sergius, by Leo Tolstoy                                             985
+
+Who Was Who: 5000 B. C. to Date, by Anonymous,                             984
+ [Subtitle: Biographical Dictionary of the
+  Famous and Those Who Wanted to Be]
+
+Tour through the Eastern Counties of England, 1722, by Daniel Defoe        983
+
+Book of Nonsense, by Edward Lear                                           982
+
+Beowulf, by Anonymous                                                      981
+
+Alice Adams, by Booth Tarkington                                           980
+
+Heroes of the Telegraph, by J. Munro                                       979
+
+The Yates Pride, by Mary E. Wilkins Freeman                                978
+
+American Notes, by Rudyard Kipling                                         977
+
+Tanglewood Tales, by Nathaniel Hawthorne                                   976
+
+The Ethics, Part 5, by Benedict de Spinoza                                 975
+
+The Secret Agent, by Joseph Conrad                                         974
+ [Subtitle: A Simple Tale]
+
+Howard Pyle's Book of Pirates, by Howard Pyle                              973
+
+The Devil's Dictionary, by Ambrose Bierce                                  972
+
+The Ethics, Part 4, by Benedict de Spinoza                                 971
+
+Uncle Josh's Punkin Centre Stories, by Cal Stewart                         970
+
+The Tenant of Wildfell Hall, by Anne Bronte                                969
+
+Life And Adventures Of Martin Chuzzlewit, by Charles Dickens               968
+
+The Life And Adventures Of Nicholas Nickleby, by Charles Dickens           967
+
+Maid Marian, by Thomas Love Peacock                                        966
+
+The Black Tulip, by Alexandre Dumas (Pere)                                 965
+
+The Merry Adventures of Robin Hood, by Howard Pyle                         964
+
+Little Dorrit, by Charles Dickens                                          963
+
+The Poems of Henry Kendall, by Henry Kendall                               962
+
+Glinda of Oz, by L. Frank Baum                                             961
+
+The Tin Woodman of Oz, by Baum                                             960
+
+The Lost Princess of Oz, by Baum                                           959
+
+Rinkitink In Oz, by L. Frank Baum                                          958
+
+The Scarecrow of Oz, by L. Frank Baum                                      957
+
+Tik-Tok of Oz, by L. Frank Baum                                            956
+
+The Patchwork Girl of Oz, by L. Frank Baum                                 955
+
+Tom Swift and his War Tank, by Victor Appleton                             954
+ [Subtitle: or, Doing his Bit for Uncle Sam]
+
+Tom Swift and his Big Tunnel, by Victor Appleton                           953
+ [Subtitle: or, The Hidden City of the Andes]
+
+Tom Swift and his Air Glider, by Victor Appleton                           952
+ [Subtitle: or, Seeking the Platinum Treasure]
+
+Tom Swift and his Sky Racer, by Victor Appleton                            951
+ [Subtitle: or, The Quickest Flight on Record]
+
+Tom Swift and his Electric Runabout, by Victor Appleton                    950
+ [Subtitle: or, The Speediest Car on the Road]
+
+Tom Swift and his Submarine Boat, by Victor Appleton                       949
+ [Subtitle: or, Under the Ocean for Sunken Treasure]
+
+The Ethics, Part 3, by Benedict de Spinoza                                 948
+
+The Life of Horatio Lord Nelson, by Robert Southey                         947
+
+Lady Susan, by Jane Austen                                                 946
+
+Dust, by Mr. and Mrs. Haldeman-Julius                                      945
+
+The Voyage of the Beagle, by Charles Darwin                                944
+
+Misalliance, by George Bernard Shaw                                        943
+
+Green Mansions, by W. H. Hudson                                            942
+ [Subtitle: A Romance of the Tropical Forest]
+
+Just Folks, by Edgar A. Guest                                              941
+
+The Last of the Mohicans, by James Fenimore Cooper                         940
+
+The Life of Thomas Telford, by Samuel Smiles                               939
+
+Good Indian, by B. M. Bower                                                938
+
+Poems: Patriotic, Religious, and Miscellaneous, by Father Ryan             937
+
+Village Watch-Tower, by Kate Douglas Wiggin                                936
+ [Author a.k.a. Kate Douglas Riggs]
+
+Self-Help, by Samuel Smiles                                                935
+ [Subtitle: with illustrations of Conduct and Perseverance]
+
+Songs of a Savoyard by W. S. Gilbert                                       934
+
+More Bab Ballads, by W. S. Gilbert                                         933
+
+Fall of the House of Usher, by Edgar Allan Poe                             932
+
+The Bab Ballads, by W. S. Gilbert                                          931
+
+The Cook's Decameron: A Study in Taste, by Mrs. W. G. Waters               930
+ [Subtitle: Containing Over Two Hundred Recipes
+  For Italian Dishes]
+
+The Real Cyberpunk Fakebook, by St. Jude, R. U. Sirius, and Bart Nagel     929C
+
+Alice's Adventures In Wonderland, by Lewis Carroll                         928
+
+The Lamplighter, by Charles Dickens                                        927
+
+10,000 Dreams Interpreted, by Gustavus Hindman Miller                      926
+
+United States Presidents' Inaugural Speeches, by Various                   925
+ [Subtitle: From Washington to George W. Bush]
+
+To be Read at Dusk, by Charles Dickens                                     924
+
+Sketch of the Life of Brig. Gen. Francis Marion, by William Dobein James   923
+
+Sunday under Three Heads, by Charles Dickens                               922
+
+De Profundis, by Oscar Wilde                                               921
+
+The Ethics, Part 2, by Benedict de Spinoza                                 920
+
+The Ethics, Part 1, by Benedict de Spinoza                                 919
+
+Sketches of Young Gentlemen, by Charles Dickens                            918
+ [Illustrator: Hablot Knight Browne]
+
+Barnaby Rudge, by Charles Dickens                                          917
+
+Sketches of Young Couples, by Charles Dickens                              916
+
+Library Work with Children, by Alice I. Hazeltine                          915
+
+The Uncommercial Traveller, by Charles Dickens                             914
+ [Illustrator: Harry Furniss]
+
+A Hero of Our Time, by M. Y. Lermontov                                     913
+
+The Mudfog and Other Sketches, by Charles Dickens                          912
+ [Illustrator: George Cruikshank]
+
+Tales of the Fish Patrol, by Jack London                                   911
+
+White Fang, by Jack London                                                 910
+
+The Adventures of Colonel Daniel Boone, by John Filson                     909
+
+A Treatise on Parents and Children, by George Bernard Shaw                 908
+
+Flying Machines, by W. J. Jackman and Thos. H. Russell                     907
+ [Subtitle: Construction and Operation]
+
+Abraham Lincoln, by James Russell Lowell                                   906
+
+Within the Law, by Marvin Dana                                             905
+ [Subtitle: From the Play of Bayard Veiller]
+
+Her Father's Daughter, by Gene Stratton-Porter                             904
+
+The White Company, by Arthur Conan Doyle                                   903
+
+The Happy Prince, by Oscar Wilde                                           902
+ [Subtitle: and Other Tales]
+ [Illustrator: Walter Crane]
+
+The Jew of Malta, by Christopher Marlowe                                   901
+
+Not Used                                                                   900
+
+Wonderful Balloon Ascents, by Fulgence Marion                              899
+ [Subtitle: or, the Conquest of the Skies]
+
+The Lesson of the Master, by Henry James                                   898
+
+The Rose and the Ring, by William Makepeace Thackeray                      897
+
+Orations, by John Quincy Adams                                             896
+
+History of The Decline and Fall of the Roman Empire, Vol. 6,               895
+ by Edward Gibbon
+
+History of The Decline and Fall of the Roman Empire, Vol. 5,               894
+ by Edward Gibbon
+
+History of The Decline and Fall of the Roman Empire, Vol. 4,               893
+ by Edward Gibbon
+
+History of The Decline and Fall of the Roman Empire, Vol. 3,               892
+ by Edward Gibbon
+
+History of The Decline and Fall of the Roman Empire, Vol. 2,               891
+ by Edward Gibbon
+
+History of The Decline and Fall of the Roman Empire, Vol. 1,               890
+ by Edward Gibbon
+
+Two Years in the Forbidden City, by The Princess Der Ling                  889
+
+The Lazy Tour of Two Idle Apprentices, by Charles Dickens                  888
+
+Intentions, by Oscar Wilde                                                 887
+
+Letters from the Cape, by Lady Duff Gordon                                 886
+
+An Ideal Husband, by Oscar Wilde                                           885
+
+Memoirs of Extraordinary Popular Delusions, by Charles Mackay              884
+ [Subtitle: Volume 3 of 3]
+
+Our Mutual Friend, by Charles Dickens                                      883
+
+Sketches, by Boz,                                                          882
+ [Author a.k.a. Charles Dickens]
+ [Subtitle: Illustrative of everyday life and every-day people]
+
+Lemorne Versus Huell, by Elizabeth Drew Stoddard                           881
+
+My Garden Acquaintance, by James Russell Lowell                            880
+
+The Boy Captives, by John Greenleaf Whittier                               879
+
+Yankee Gypsies, by John Greenleaf Whittier                                 878
+
+Little Britain, by Washington Irving                                       877
+
+Life in the Iron-Mills, by Rebecca Harding Davis                           876
+
+The Duchess of Padua, by Oscar Wilde                                       875
+ [Subtitle: A Play]
+
+A History of Aeronautics, by E. Charles Vivian                             874
+
+A House of Pomegranates, by Oscar Wilde                                    873
+
+Reprinted Pieces, by Charles Dickens                                       872
+
+The Golden Sayings of Epictetus                                            871
+
+The Love of Ulrich Nebendahl, by Jerome K. Jerome                          870
+
+The Soul of Nicholas Snyders, by Jerome K. Jerome                          869
+ [Subtitle: Or, The Miser Of Zandam]
+
+The Philosopher's Joke, by Jerome K. Jerome                                868
+
+Mrs. Korner Sins Her Mercies, by Jerome K. Jerome                          867
+
+The Cost of Kindness, by Jerome K. Jerome                                  866
+ [Subtitle: From a volume entitled
+  "Idle Thoughts of an Idle Fellow"]
+
+Passing of the Third Floor Back, by Jerome K. Jerome                       865
+
+The Master of Ballantrae, by Robert Louis Stevenson                        864
+ [Subtitle: A Winter's Tale]
+
+The Mysterious Affair at Styles, by Agatha Christie                        863
+
+Philosophy 4, A Story of Harvard University, by Owen Wister                862
+
+The Dominion of the Air, by J. M. Bacon                                    861
+
+Baby Mine, by Margaret Mayo                                                860
+
+Polly of the Circus, by Margaret Mayo                                      859
+
+Stage-Land, by Jerome K. Jerome                                            858
+
+Evergreens, by Jerome K. Jerome                                            857
+ [Subtitle: From a volume entitled
+  "Idle Thoughts of an Idle Fellow"]
+
+Dreams, by Jerome K. Jerome                                                856
+ [Subtitle: From a volume entitled
+  "Idle Thoughts of an Idle Fellow"]
+
+Clocks, by Jerome K. Jerome                                                855
+ [Subtitle: From a volume entitled
+  "Idle Thoughts of an Idle Fellow"]
+
+A Woman of No Importance, by Oscar Wilde                                   854
+ [Subtitle: A Play]
+
+The Confutatio Pontificia, by Anonymous                                    853
+
+Democracy and Education, by John Dewey                                     852
+
+Captivity and Restoration of Mrs. Mary Rowlandson, by Mary Rowlandson      851
+
+Tom Grogan, by F. Hopkinson Smith                                          850
+
+Idle Thoughts of an Idle Fellow, by Jerome K. Jerome                       849
+
+The Black Arrow, by Robert Louis Stevenson                                 848
+
+Lays of Ancient Rome, by Thomas Babbington Macaulay                        847
+
+The Life of Gen. Francis Marion, by Mason Locke Weems                      846
+
+Poems of Henry Timrod, by Henry Timrod                                     845
+
+The Importance of Being Earnest, by Oscar Wilde                            844
+ [Subtitle: A Trivial Comedy for Serious People]
+
+The Life of Francis Marion, by W. Gilmore Simms                            843
+
+Memoirs of Carwin the Biloquist, by Charles Brockden Brown                 842
+ [Subtitle: A Fragment]
+
+Men, Women and Ghosts, by Amy Lowell                                       841
+
+Lorna Doone, A Romance of Exmoor, by R. D. Blackmore                       840
+
+New Arabian Nights, by Robert Louis Stevenson                              839
+
+Jasmin: Barber, Poet, Philanthropist, by Samuel Smiles                     838
+
+The Story of the Amulet, by E. Nesbit                                      837
+
+The Phoenix and the Carpet, by E. Nesbit                                   836
+
+The Grey Brethren and Other Fragments in Prose and Verse,                  835
+ by Michael Fairless
+ [Author a.k.a. Margaret Fairless Barber]
+
+Memoirs of Sherlock Holmes, Sir Arthur Conan Doyle                         834
+
+The Theory of the Leisure Class, by Thorstein Veblen                       833
+
+Robin Hood, by J. Walker McSpadden                                         832
+
+Four Arthurian Romances, by Chretien DeTroyes                              831
+
+The Argonautica, by Apollonius Rhodius                                     830
+
+Gulliver's Travels, by Jonathan Swift                                      829
+
+Latin Vulgate of Daniel, by Anonymous                                      828
+ [Language: Latin]
+
+Latin Vulgate, Esther: Liber Esther, by Anonymous                          827
+ [Language: Latin]
+ [Note: Different Arrangement]
+
+Latin Vulgate, Esther: Liber Esther, by Anonymous                          826
+ [Language: Latin]
+
+Latin Vulgate Bible Book Titles and Names, by Anonymous                    825
+ [Language: Latin]
+
+Speeches of Charles Dickens                                                824
+ [Subtitle: Literary and Social]
+
+The Life of St. Declan of Ardmore, by Anonymous                            823
+
+The Tarn of Eternity, by Frank Tymon                                       822C
+
+Dombey and Son, by Charles Dickens                                         821
+
+Edison, His Life and Inventions, by Frank Lewis Dyer                       820
+ and Thomas Commerford Martin
+
+The History of the Telephone, by Herbert N. Casson                         819
+
+The Aeroplane Speaks, by H. Barber                                         818
+
+The Jargon File, Version 4.0.0, 24 Jul 1996, by Eric S. Raymond            817
+ and Guy L. Steele
+
+Democracy In America, Vol. 2 of 2, by Alexis de Toqueville                 816
+
+Democracy In America, Vol. 1 of 2, by Alexis de Toqueville                 815
+
+Hunting Sketches, by Anthony Trollope                                      814
+
+Reminiscences of Tolstoy, by Ilya Tolstoy                                  813
+ [Subtitle: By His Son]
+
+Catalan's Constant to 1,500,000 Places, by Thomas Papanikolaou             812
+
+The Tragical History of Doctor Faustus, by Christopher Marlowe             811
+
+George Silverman's Explanation, by Charles Dickens                         810
+
+Holiday Romance, by Charles Dickens                                        809
+ [Subtitle: In Four Parts]
+
+The Complete Plays of William S. Gilbert and Arthur Seymour Sullivan       808
+
+Hunted Down, by Charles Dickens                                            807
+ [Subtitle: 1860]
+
+Philoktetes, by Sophocles                                                  806C
+
+This Side of Paradise, by F. Scott Fitzgerald                              805
+
+A Sentimental Journey Through France and Italy, by Laurence Sterne         804
+
+La Duchesse de Palliano, par Stendhal                                      803
+ [Language: French]
+
+Vittoria Accoramboni, Duchesse de Bracciano, par Stendhal                  802
+ [Language: French]
+
+Les Cenci, par Stendhal                                                    801
+ [Language: French]
+
+Le Tour du Monde en 80 Jours, par Jules Verne                              800
+ [Language: French]
+
+De La Terre a La Lune, par Jules Verne                                     799
+ [Language: French]
+
+Le Rouge et le Noir, par Stendhal                                          798
+ [Subtitle: Chronique du 19th siècle]
+ [Language: French]
+
+L'Abbesse de Castro, par Stendhal                                          797
+ [Language: French]
+
+La Chartreuse de Parme, par Stendhal                                       796
+ [Author a.k.a. Marie-Henri Beyle]
+ [Language: French]
+
+Ballads and Lyrics of Old France, by Andrew Lang                           795
+ [Subtitle: with Other Poems]
+
+The Wouldbegoods, by E. Nesbit                                             794
+
+Aeroplanes and Dirigibles of War, by Frederick A. Talbot                   793
+
+Wieland, or The Transformation, by Charles Brockden Brown                  792
+ [Subtitle: An American Tale]
+
+The Princess, by Alfred Lord Tennyson                                      791
+
+Lady Windermere's Fan, by Oscar Wilde                                      790
+ [Subtitle: A Play about a Good Woman]
+
+The Gathering of Brother Hilarius, by Michael Fairless                     789
+
+The Red One, by Jack London                                                788
+
+The Man Between, by Amelia E. Barr                                         787
+
+Hard Times, by Charles Dickens                                             786
+
+Of The Nature of Things, by Lucretius                                      785
+ [Author a.k.a. Titus Lucretius Carus]
+
+Boyhood in Norway, by Hjalmar Hjorth Boyesen                               784
+
+The Lost City, by Joseph E. Badger, Jr.                                    783
+
+The Travels of Sir John Mandeville, by John Mandeville                     782
+ [Subtitle: the version of the Cotton Manuscript in modern spelling]
+
+The Sinking of the Titanic, by Various                                     781
+ [Subtitle: and Great Sea Disasters]
+
+The War in the Air, by H. G. Wells                                         780
+
+The Tragical History of Doctor Faustus, by Christopher Marlowe             779
+
+Five Children and It, by E. Nesbit                                         778
+
+The Mastery of the Air, by William J. Claxton                              777
+
+Hermione's Group of Thinkers, by Don Marquis                               776
+
+When the Sleeper Wakes, by Herbert George Wells                            775
+
+Essays and Lectures, by Oscar Wilde                                        774
+
+Lord Arthur Savile's Crime, by Oscar Wilde                                 773
+ [Subtitle: and other stories]
+
+Moral Emblems, by Robert Louis Stevenson                                   772
+
+Biog Notes on the Pseudonymous Bells, by Charlotte Brontë                  771
+
+The Story of the Treasure Seekers, by E. Nesbit                            770
+
+The Book of Tea, by Kakuzo Okakura                                         769
