@@ -133,23 +133,6 @@ In the first case it was asked if numInt is equal to numFloat, which it is.  The
 
 
 
-### Scoping
-
-```python
-x = 7
-
-def genX(someVariable):
-	x = someVariable
-	print x
-
-genX(8)
-
-print x
-```
-From these few lines of code can you determine what "x" is going to print?  At the start there is a function that defined "genX" that is passed the variable "someVariable".  This function will then set x equal to someVariable and print x. The important point is that all this happens in the genX function scope and does not change what is happening outside the function.  "x" is defined before the genX function is defined and called to create a new value of x but the implementation of genX does not change the original value of "x".  This is the most basic rule of scoping.   
-
-Complex examples of scoping abound on the old interweb.  Just Google "scoping rules python" to see some.  But what I have found over the years is to just remember that what happens in a function (Vegas) stays in a function (Vegas).  In other words, variables created in functions remain within the scope of the function and do not enter the top level scope.  As we will see later, you can return the result of a function to a variable but this creates a new variable or overwrites an existing variable.  As I said, more on this later.
-
 ### Types of Variables/Objects: Booleans
 
 Booleans are True/False values.  They are binary values that will be returned from the use of logical operators.  Notice that the syntax for booleans are capitalized True or False.  Booleans will be very important when we get into conditional statements that need to take a specific action when once a given answer has been reached. :+1:

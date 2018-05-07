@@ -109,9 +109,9 @@ From these few lines of code can you determine what "x" is going to print?  At t
 
 Complex examples of scoping abound on the old interweb.  Just Google "scoping rules python" to see some.  But what I have found over the years is to just remember that what happens in a function (Vegas) stays in a function (Vegas).  In other words, variables created in functions remain within the scope of the function and do not enter the top level scope.  You can return the result of a function to a variable but this creates a new variable or overwrites an existing variable. 
 
-#### Args and Kwargs
+#### Non-default and Default Function Arguments
 
-There are two types of arguments, arguments (or args) and keyword arguments (kwargs).  That is a little confusing I know, so unless I specificially say keyword argument just assume I mean standard argument.  The difference between standard arguments and keyword arguments is that the later have a default input.  Args have to always be listed before kwargs- non-defalut arguments have to be listed by for arguments with default values.  Standard syntax for arguments and keyword arguments are is presented below.
+There are two types of arguments that can be passed to functions- non-default and default arguments.   The difference between standard arguments and defalut arguments is that the later have a default input.  Non-default have to always be listed before arguments with default values.  Standard syntax for non-defalut and default arguments are as follows.
 
 ```python
 def printArgs(arg1, arg2, arg3 = 10):
@@ -124,7 +124,7 @@ printArgs(1,2,3)
 
 In the first case, arguments are only passed for the first two arguments.  Since 'arg3' has a defalut there is no need to enter a value unless you want the value to change.  
 
-Arguments have to always come before keyword args and the two types of arguments cannot be mixed.  In other words, you cannot use the following syntax below.  
+Non-defaults have to always come before default args and the two types of arguments cannot be mixed.  In other words, you cannot use the following syntax below.  
 
 ```python
 def printArgs(arg1, arg3 = 10, arg2):
@@ -132,7 +132,7 @@ def printArgs(arg1, arg3 = 10, arg2):
 ```
 This will result in a syntax error ("SyntaxError") because default arguments are being presented before non-default arguments.  
 
-Practice #1:
+#### Practice #1:
 
 Given the following string, your job is to parse this string into individual words and using the word as the keys you need to make the number of times each word appears at the value.  This means you have to interate through the string with each word and return the dictionary of words and their appearance value.  There is an obvious problem, there are some words that are going to be adjacent commas and periods that will not match the same word that do not sit next to a comma or period.  Do not worry about this for now.  Just focus on creating the dictionary with values.  
 

@@ -116,7 +116,7 @@ sprotEntry = "CXE13_ARATH^CXE13_ARATH^Q:93-266,H:4-63^45%ID^E:2.23e-09^RecName: 
 
 Practice #1:
 
-The following is a list of books from [The Gutenberg Project](): [1997 Book List](https://www.gutenberg.org/dirs/GUTINDEX.1997.iso-8859-1.txt).  Download the list as a text file (.txt).  Open the file and parse it to count the number author entries in the list (what data type would be best for this?).  As you will notice, some names are listed slightly differently for each author?  How can you use regular expressions to overcome this problem?  Make sure to develop your program into a function that can be used for any Gutenberg book list.
+The following is a list of books from [The Gutenberg Project](): [1997 Book List](https://www.gutenberg.org/dirs/GUTINDEX.1997.iso-8859-1.txt) or download it [here](https://github.com/mcelrjo/AgInformatics/blob/master/otherFiles/GUTINDEX.1997.iso-8859-1.txt).  Open the file and parse it to count the number author entries in the list (what data type would be best for this?).  As you will notice, some names are listed slightly differently for each author?  How can you use regular expressions to overcome this problem?  Make sure to develop your program into a function that can be used for any Gutenberg book list.
 
 Practice #2:  
 

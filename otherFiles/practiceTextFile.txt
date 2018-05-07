@@ -1,0 +1,6 @@
+This is a practice text file
+It has a few lines in it
+So you can print them out and
+See what is going on
+One thing you will notice
+Is that you can only go through a file once.
