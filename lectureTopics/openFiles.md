@@ -152,7 +152,7 @@ The problem is that it only printed one line.  When printing new lines there has
 newLine1 = "here is the first line \n"
 ```
 
-### Practice #2
+### Practice #3
 
 Create a program that asks for a person's name, email address, mailing address, city, state, zip code.  Write all this to a file and make it where new entries can be made.  After three people have entered data, recall all the names and cities from which the people are from.
 
