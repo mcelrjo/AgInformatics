@@ -89,3 +89,44 @@ Create a script that only creates one folder but uses the time and date to creat
 newFolder_11200304052018
 ```
 You can break up the name any way you want just make sure that unique names are created using the time and date.  
+
+### More _OS_ Module Stuff
+
+_OS_ has some great methods for manipulating and checking paths using _os.path_. 
+
+```python
+os.path.isfile(path)
+```
+Checks if a path is a file (not a directory)
+```python
+os.path.isdir(path)
+```
+Is the path a directory.
+```python
+os.path.exists(path)
+```
+Does the path actually exist
+```python
+os.path.isabs(path)
+```
+Is the path absolute
+```python
+os.path.split(path)
+```
+This method is very useful.  What split does is it breaks the path into two parts -- the path and the last part of the path.  So, /home/doug/mopeds/newMoped.jpg gets split into /home/doug/mopeds and newMoped.jpg.  
+```python
+os.path.join(basepath, directory/file)
+```
+Merges into one path.
+```python
+os.path.dirname(path)
+```
+Gets the directory of the path name
+```python
+os.path.splitext(path)
+```
+Another very useful method.  Splits newMoped.jpg into newMoped and jpg.
+```python
+os.path.basename(path)
+```
+Gets the last directory in a path.  

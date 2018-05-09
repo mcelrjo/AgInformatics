@@ -26,9 +26,10 @@ Sections:
 
 9.  An Introduction to the Command Line
 
-10.  Os and Sys Modules
+10.  [Os and Sys Modules](https://github.com/mcelrjo/AgInformatics/blob/master/lectureTopics/osSys.md)
 
 11.  Git and Github
+	I highly recommend this for learning _git_:  [Codecademy Learn Git](https://www.codecademy.com/learn/learn-git).  It has a fee but it is well worth it.
 
 
 
