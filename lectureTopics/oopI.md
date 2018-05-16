@@ -75,7 +75,7 @@ Object oriented program is really brilliant.  It creates reusable code that is w
 Let's further expand the "Soil" class by defining methods.  One aspect we want to avoid is accessing the _instance variables_ directly, instead we want to create some definitions that avoid this.  
 
 ```python
-class soil(object):
+class Soil(object):
 	'''This is my soil class used to monitor important properties related to the soil health.
 	'''
 	def __init__(self, basicType, P, K):
@@ -130,7 +130,7 @@ When you think about this class, it provides an ability to track two components 
 
 Let's create a different check minimum class function that evaluates the P and K class variable levels and outputs the based on a crop input.  Think about how we/you should do this.  There is more than one way to accomplish this goal.
 
-### Problem #2
+##### Problem #2
 
 To improve your understanding of how classes work, consider that you have the following lists of fertilizer and rainfall for the next 12 months.  Print the resulting P and K levels for each month.
 
@@ -144,9 +144,15 @@ perP = [0.4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 rainfall = [0, 2, 4, 16, 14, 1, 2, 3, 4, 9, 5, 3]
 ```
 
-### Problem #3
+### Understanding where we are going.
 
-Create a class for .....
+If you happened to buy the book "The Self-Taught Progammer", I highly recommend you read chapter _ on the differnt types of programming and what make object-oriented programming so different.  It is a great read and really explains what we have been building toward with "Classes"
+
+But to really understand OOP and Classes, you need to create one on your own.  For the next problem you are going to create your own Class -- from scratch.  
+
+##### Problem #3
+
+Create a class for _students_ called the Student class.  Students will have an id, a set of homework grades, exam grades, and attendance.  
 
 ##### Additional Info:
 
