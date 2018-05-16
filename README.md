@@ -12,23 +12,27 @@ Sections:
 
 3.  [Functions](https://github.com/mcelrjo/AgInformatics/blob/master/functions.md)
 
-4.  [Opening Files](https://github.com/mcelrjo/AgInformatics/blob/master/lectureTopics/openFiles.md)
+	[Programming Tips](https://github.com/mcelrjo/AgInformatics/blob/master/lectureTopics/sidenotes.md)
 
-5.  [Object Oriented Programming I](https://github.com/mcelrjo/AgInformatics/blob/master/lectureTopics/oopI.md)
+4. [Try/Except Statements](https://github.com/mcelrjo/AgInformatics/blob/master/lectureTopics/tryExcept.md)
 
-6.  Object Oriented Programming II
+5.  [Opening Files](https://github.com/mcelrjo/AgInformatics/blob/master/lectureTopics/openFiles.md)
 
-7.  Introduction to Pandas and Numpy
+6.  [Object Oriented Programming I](https://github.com/mcelrjo/AgInformatics/blob/master/lectureTopics/oopI.md)
+
+7.  Object Oriented Programming II
+
+8.  Introduction to Pandas and Numpy
 	a.  Opening tables, CSV, and Excel Files 
 	b.  Searching through tables
 
-8.  [Regular Expressions](https://github.com/mcelrjo/AgInformatics/blob/master/lectureTopics/regularExpressions.md)
+9.  [Regular Expressions](https://github.com/mcelrjo/AgInformatics/blob/master/lectureTopics/regularExpressions.md)
 
-9.  An Introduction to the Command Line
+10.  An Introduction to the Command Line
 
-10.  [Os and Sys Modules](https://github.com/mcelrjo/AgInformatics/blob/master/lectureTopics/osSys.md)
+11.  [Os and Sys Modules](https://github.com/mcelrjo/AgInformatics/blob/master/lectureTopics/osSys.md)
 
-11.  Git and Github
+12.  [Git and Github](https://github.com/mcelrjo/AgInformatics/blob/master/lectureTopics/gitNotes.md)
 	I highly recommend this for learning _git_:  [Codecademy Learn Git](https://www.codecademy.com/learn/learn-git).  It has a fee but it is well worth it.
 
 
