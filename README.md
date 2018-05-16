@@ -34,7 +34,7 @@ Sections:
 
 12.  [Git and Github](https://github.com/mcelrjo/AgInformatics/blob/master/lectureTopics/gitNotes.md)
 
-	I highly recommend this for learning _git_:  [Codecademy Learn Git](https://www.codecademy.com/learn/learn-git).  It has a fee but it is well worth it.
+I highly recommend this for learning _git_:  [Codecademy Learn Git](https://www.codecademy.com/learn/learn-git).  It has a fee but it is well worth it.
 
 
 
