@@ -41,7 +41,7 @@ Problems and Projects:
 
 3.  Fibonacci's Rabbits
 
-4.  Counting letters in a string
+4.  [Counting letters in a string](https://github.com/mcelrjo/AgInformatics/blob/master/practiceAssignments/countingLetters.txt)
 
 
 Additional links and resources:

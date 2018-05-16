@@ -124,14 +124,13 @@ Many assume that two more logical operators are equivalent _is_ and _is not_.  W
 numInt = 7
 numFloat = 7.0
 numInt == numFloat
-
-numInt is numFloat
-False
+umInt is numFloat
+>>> False
 ```
 
 In the first case it was asked if numInt is equal to numFloat, which it is.  There is no mathematical difference between an 7 and 7.0.  But when asked if numInt _is_ numFloat, these cannot be equivalent because even though they are mathematically equal they are two different types. :tada:
 
-
+##### Quick quetion: If you are a little confused on this, try this exercise.  Create two separate lists that have the exact same set of variables inside them.  Make it four variables and a mixtures of ints and strings.  After doing that use the "==", "is", and "is not" on the variables to see what you get.  After that use the id() function to see the unique numerical identifiers assigned by Python to those objects.  
 
 ### Types of Variables/Objects: Booleans
 

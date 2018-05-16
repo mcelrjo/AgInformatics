@@ -55,4 +55,4 @@ In the above two examples, the same goal is accomplished because there is only o
 
 ##### Problem #1:
 
-Take two user inputs and multiply the two inputs and return the result.  In your test case, accidentially enter one of the inputs as a string.  Handle the exception and return a message to the user that only numbers are not allowed.  
+Develop a function that takes two user inputs and multiply the two inputs and return the result.  In your test case, accidentially enter one of the inputs as a string.  Handle the exception and return a message to the user that only numbers are not allowed.  

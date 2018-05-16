@@ -132,14 +132,19 @@ def printArgs(arg1, arg3 = 10, arg2):
 ```
 This will result in a syntax error ("SyntaxError") because default arguments are being presented before non-default arguments.  
 
-#### Practice #1:
+#### Problem #1 - Counting words in a string:
 
 Given the following string, your job is to parse this string into individual words and using the word as the keys you need to make the number of times each word appears at the value.  This means you have to interate through the string with each word and return the dictionary of words and their appearance value.  There is an obvious problem, there are some words that are going to be adjacent commas and periods that will not match the same word that do not sit next to a comma or period.  Do not worry about this for now.  Just focus on creating the dictionary with values.  
 
 You can start off by writing the code outside of a function, but in the end it needs to wrap into a function.  
-
+```
 taleOfTwo = 'It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair, we had everything before us, we had nothing before us, we were all going direct to Heaven, we were all going direct the other way – in short, the period was so far like the present period, that some of its noisiest authorities insisted on its being received, for good or for evil, in the superlative degree of comparison only.'
+```
+##### Problem #2 - Palindromes:
 
-Practice #2:
+Develop a function or set of functions that takes a string input and determines if the input is a palindrome.  Think about this problem from a pseudocode perspective before moving forward -- in other words, don't just start writing code.  Think about all the problems that a user can introduce that can cause the function to fail.  Think about how you should break up the code into separate functions (this is called decomposition which we will talk more about later) -- because you probably don't want one function to do all the work because it is harder to debug.  Lay out a series of steps that need to be completed before you evaluate the palindrome.  Last is coming up with and algorithm that evaluate the string to determine if it is a palindrome.  
+
+
+##### Problem #3:
 
 Download the following link and parse the file to 
