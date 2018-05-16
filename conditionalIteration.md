@@ -207,3 +207,14 @@ There is only one way to learn to learn the python.  Not watching videos.  Not t
 Write a short program that continues to ask the user to guess a number between 1 and 20.  There will be a preset number, raw_input statement in the code, and when they get the number correct you need to give them a message of congratulations.  You may want to tell them that they missed it if they do not get the number before you tell them to guess again.  I would also think about telling them at the beginning that they are playing a number guessing game and ask them to guess a number.  If they do not get it correctly, I do not think you want them to get the same message again do you?  I tend to vary my guidance depending on the exercise, so on this one.  That is all you get.  
 
 Start off by opening a new file in Enthought Canopy and saving it as numberGuessing.py.  :four_leaf_clover: :fireworks:
+
+##### Exercise #2:  Find the largest odd number
+
+Given any list of integers find the larges odd number in the list.  Start off with the test case below, but then develop your own test cases to challenge the program.  
+
+```python
+l = [1,2,3,4,5,6,7,8,9,11,489,15,19,27]
+```
+Once you are confident that your code is functioning properly, modify the code in such a way that it only evaluates integers in the list, not strings or floats.  
+
+Once done and your coding partners are finished, share your above two files and let them test it to give you feedback.  

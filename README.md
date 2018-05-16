@@ -12,7 +12,7 @@ Sections:
 
 3.  [Functions](https://github.com/mcelrjo/AgInformatics/blob/master/functions.md)
 
-	[Programming Tips](https://github.com/mcelrjo/AgInformatics/blob/master/lectureTopics/sidenotes.md)
+	[__Side note__: Programming Tips](https://github.com/mcelrjo/AgInformatics/blob/master/lectureTopics/sidenotes.md)
 
 4. [Try/Except Statements](https://github.com/mcelrjo/AgInformatics/blob/master/lectureTopics/tryExcept.md)
 
@@ -33,13 +33,14 @@ Sections:
 11.  [Os and Sys Modules](https://github.com/mcelrjo/AgInformatics/blob/master/lectureTopics/osSys.md)
 
 12.  [Git and Github](https://github.com/mcelrjo/AgInformatics/blob/master/lectureTopics/gitNotes.md)
+
 	I highly recommend this for learning _git_:  [Codecademy Learn Git](https://www.codecademy.com/learn/learn-git).  It has a fee but it is well worth it.
 
 
 
 Problems and Projects:
 
-1.  Calculating the nth prime number
+1.  [Calculating the nth prime number](https://github.com/mcelrjo/AgInformatics/blob/master/practiceAssignments/nthPrimeNumber.txt)
 
 2.  Hangman
 
