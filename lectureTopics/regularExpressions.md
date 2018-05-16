@@ -112,7 +112,24 @@ regex = r"Full=([\w\s]+);"
 sprotEntry = "CXE13_ARATH^CXE13_ARATH^Q:93-266,H:4-63^45%ID^E:2.23e-09^RecName: Full=Probable carboxylesterase 13;^Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae; Pentapetalae; rosids; malvids; Brassicales; Brassicaceae; Camelineae; Arabidopsis"
 ```
 
+### Sometimes you want to find everything
 
+There are other methods in _re_ to conduct regular expression searches.  The _findall_ method allows you to capture all the items in a string that match the regular expression.  Here is an example.
+
+```python
+keggString = 'GO:0016021^cellular_component^integral component of membrane`GO:0005886^cellular_component^plasma membrane`GO:0005524^molecular_function^ATP binding`GO:0004674^molecular_function^protein serine/threonine kinase activity'
+
+expression = r'(GO:\d+)'
+
+result = re.findall(expression, keggString)
+
+print result
+
+>>> ['GO:0016021','GO:0005886','GO:0005524','GO:0004674']
+
+```
+
+_findall_ matched all strings that matched the regular expression and compiled them in a list.  Since 'result' is a list, it can be parsed like a list.  Easy-peasy.
 
 Practice #1:
 
@@ -120,4 +137,4 @@ The following is a list of books from [The Gutenberg Project](): [1997 Book List
 
 Practice #2:  
 
-Now we are going to develop a more complete project that parses 
+Now we are going to develop a more complete project that parses ....
