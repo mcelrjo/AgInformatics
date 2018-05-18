@@ -2,6 +2,8 @@
 
 We have covered two types of search algorithms - exaustive enumeration and bisection search.  You have also created a short program to guess a number using a while loop.  Now let's combine these ideas and create a bisection search algorithm to guess a number between 1 and k (k being any number).  There are numerous examples of this on the web so please do not google this.  Sometimes it is bad to google.  I will start you off with some code to work with to help you get started.
 
+Something to remember, these types of searches work only on ordered lists.  Bisection search is dividing an ordered sequence every pass through to decrease the search space in which the answer lies.  If the sequence is unordered there is no way to cut the list.
+
 ```python
 high = 1000
 low = 0
