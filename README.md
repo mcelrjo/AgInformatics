@@ -40,13 +40,15 @@ I highly recommend this for learning _git_:  [Codecademy Learn Git](https://www.
 
 Problems and Projects:
 
-1.  [Calculating the nth prime number](https://github.com/mcelrjo/AgInformatics/blob/master/practiceAssignments/nthPrimeNumber.txt)
+1.  [The Guessing Game with While Loops](https://github.com/mcelrjo/AgInformatics/blob/master/practiceAssignments/theGuessingGame.md)
 
-2.  Hangman
+2.  [Calculating the nth prime number](https://github.com/mcelrjo/AgInformatics/blob/master/practiceAssignments/nthPrimeNumber.txt)
 
-3.  Fibonacci's Rabbits
+3.  Hangman
 
-4.  [Counting letters in a string](https://github.com/mcelrjo/AgInformatics/blob/master/practiceAssignments/countingLetters.txt)
+4.  Fibonacci's Rabbits
+
+5.  [Counting letters in a string](https://github.com/mcelrjo/AgInformatics/blob/master/practiceAssignments/countingLetters.txt)
 
 
 Additional links and resources:
