@@ -50,8 +50,6 @@ Problems and Projects:
 
 5.  [Counting letters in a string](https://github.com/mcelrjo/AgInformatics/blob/master/practiceAssignments/countingLetters.txt)
 
-6.  
-
 
 Additional links and resources:
 
