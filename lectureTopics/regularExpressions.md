@@ -131,10 +131,23 @@ print result
 
 _findall_ matched all strings that matched the regular expression and compiled them in a list.  Since 'result' is a list, it can be parsed like a list.  Easy-peasy.
 
-Practice #1:
 
-The following is a list of books from [The Gutenberg Project](): [1997 Book List](https://www.gutenberg.org/dirs/GUTINDEX.1997.iso-8859-1.txt) or download it [here](https://github.com/mcelrjo/AgInformatics/blob/master/otherFiles/GUTINDEX.1997.iso-8859-1.txt).  Open the file and parse it to count the number author entries in the list (what data type would be best for this?).  As you will notice, some names are listed slightly differently for each author?  How can you use regular expressions to overcome this problem?  Make sure to develop your program into a function that can be used for any Gutenberg book list.
 
-Practice #2:  
+Practice #1:  
 
-Now we are going to develop a more complete project that parses ....
+Some practice strings for searching:
+
+go = 'GO:0071013^cellular_component^catalytic step 2 spliceosome`GO:0005737^cellular_component^cytoplasm`GO:0071006^cellular_component^U2-type catalytic step 1 spliceosome`GO:0003723^molecular_function^RNA binding`GO:0000398^biological_process^mRNA splicing, via spliceosome'
+
+kegg = 'KEGG:zma:542608`KO:K03259'
+
+sprot = "MED23_ARATH^MED23 ARATH^Q:2-274,H:685-775^65.934%ID^E:3.23e-35^RecName: Full=Mediator of RNA polymerase II transcription subunit 23;^Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae; Pentapetalae; rosids; malvids; Brassicales; Brassicaceae; Camelineae; Arabidopsis"
+
+go2 = "GO:1904115^cellular_component^axon cytoplasm`GO:0005737^cellular_component^cytoplasm`GO:0031410^cellular_component^cytoplasmic vesicle`GO:0005829^cellular_component^cytosol`GO:0005789^cellular_component^endoplasmic reticulum membrane`GO:0071782^cellular_component^endoplasmic reticulum tubular network`GO:0005768^cellular_component^endosome`GO:0070062^cellular_component^extracellular exosome`GO:0005811^cellular_component^lipid droplet`GO:0005874^cellular_component^microtubule`GO:0005815^cellular_component^microtubule organizing center`GO:0030496^cellular_component^midbody`GO:0031965^cellular_component^nuclear membrane`GO:0005654^cellular_component^nucleoplasm`GO:0005634^cellular_component^nucleus`GO:0048471^cellular_component^perinuclear region of cytoplasm`GO:0005819^cellular_component^spindle`GO:0043014^molecular_function^alpha-tubulin binding`GO:0005524^molecular_function^ATP binding`GO:0048487^molecular_function^beta-tubulin binding`GO:0008017^molecular_function^microtubule binding`GO:0008568^molecular_function^microtubule-severing ATPase activity`GO:0008089^biological_process^anterograde axonal transport`GO:0019896^biological_process^axonal transport of mitochondrion`GO:0030154^biological_process^cell differentiation`GO:0032506^biological_process^cytokinetic process`GO:0061640^biological_process^cytoskeleton-dependent cytokinesis`GO:0006888^biological_process^ER to Golgi vesicle-mediated transport`GO:0010458^biological_process^exit from mitosis`GO:0090148^biological_process^membrane fission`GO:0008152^biological_process^metabolic process`GO:0001578^biological_process^microtubule bundle formation`GO:0051013^biological_process^microtubule severing`GO:0000281^biological_process^mitotic cytokinesis`GO:0051228^biological_process^mitotic spindle disassembly`GO:0007399^biological_process^nervous system development`GO:0006998^biological_process^nuclear envelope organization`GO:0031468^biological_process^nuclear envelope reassembly`GO:0032467^biological_process^positive regulation of cytokinesis`GO:0034214^biological_process^protein hexamerization`GO:0051260^biological_process^protein homooligomerization`GO:0051230^biological_process^spindle disassembly"
+
+
+Practice #2:
+
+Part A: The following is a list of books from [The Gutenberg Project](): [1997 Book List](https://www.gutenberg.org/dirs/GUTINDEX.1997.iso-8859-1.txt) or download it [here](https://github.com/mcelrjo/AgInformatics/blob/master/otherFiles/GUTINDEX.1997.iso-8859-1.txt).  Open the file and parse it to count the number author entries in the list (what data type would be best for this?).  As you will notice, some names are listed slightly differently for each author?  How can you use regular expressions to overcome this problem?  Make sure to develop your program into a function that can be used for any Gutenberg book list.  
+
+Part B:  Search the list of books for unique authors and compile a dictionary of the authors and the number of times they are listed.

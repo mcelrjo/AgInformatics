@@ -12,10 +12,10 @@ while x == True:
     print "x is True"
     x = False
 
-x = 0
-while x < 10:
+x = 20
+while x > 10:
     print "x is less than 10"
-    x = x + 1 # or x += 1
+    x = x - 1 # or x += 1
     
     
     
@@ -23,7 +23,7 @@ while x < 10:
     
 #exaustive enumeration
 
-x = 30
+x = 0.25
 epsilon = 0.01
 step = epsilon**2
 numGuesses = 0

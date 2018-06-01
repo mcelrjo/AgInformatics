@@ -83,7 +83,7 @@ class Soil(object):
 		self.P = P
 		self.K = K
 
-	def getPvalue(self)
+	def getPvalue(self):
 		return self.P
 
 	def getKvalue(self):
@@ -95,29 +95,29 @@ class Soil(object):
 		KFERT: float, percentage of K in fertilizer
 		AMOUNT: float, lbs of fertilizer per acre
 		'''
-		self.P = self.P + int(Pfert * amount)
-		self.K = self.K + int(Kfert + amount)
+		self.P = int(self.getPvalue()) + int(Pfert * amount)
+		self.K = int(self.getKvalue()) + int(Kfert + amount)
 
 	def checkMinimum(self):
 		'''Determine if soil is at minimum level for crop growth.  
 		Minimum P: 120
 		Mimimum K: 80
 		'''
-		if self.getPvalue() >= 120
+		if self.getPvalue() >= 120:
 			print "P levels are adequate.  Current level: " + str(self.getPvalue())
 		else:
 			print "P levels are low.  Current level: " + str(self.getPvalue())
 
-		if self.getKvalue() >= 80
+		if self.getKvalue() >= 80:
 			print "K levels are adequate.  Current level: " + str(self.getKvalue())
 		else:
 			print "K levels are low.  Current level: " + str(self.getKvalue())
 
-	def monthlyLoss(self, rainPerMo)
+	def monthlyLoss(self, rainPerMo):
 		'''Calculate the monthly loss based on rainfall.  Assume a 2 point loss for every inch of rain for K and a 0.25 point loss for every inch of rain for 
 		'''
-		self.K = self.getKvalue() - int(2 * rainPerMo)
-		self.P = self.getPvalue() - int(0.25 * rainPerMo)
+		self.K = int(self.getKvalue()) - int(2 * rainPerMo)
+		self.P = int(self.getPvalue()) - int(0.25 * rainPerMo)
 ```
 
 In the _soil_ class, three new methods have been added.  The first method, Soil.checkMimimum(), checks levels based on a mimimum value and returns a status based on the P and K levels.  Notice that there is no need to provide inputs to this method because it can access the instance variables because they already exist within the class.
@@ -152,7 +152,9 @@ But to really understand OOP and Classes, you need to create one on your own.  F
 
 ##### Problem #3
 
-Create a class for _students_ called the Student class.  Students will have an id, a set of homework grades, exam grades, and attendance.  
+Part #1: Create a class for _students_ called the Student class.  Students will have an id, a set of homework grades, exam grades, and attendance.  For any student, we will need to update grades, check attendance, and check their average.
+
+Part #2: Think about assembling a number of students into a class and developing a function outside the class that can update student information. 
 
 ##### Additional Info:
 
