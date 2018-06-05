@@ -2,7 +2,7 @@
 
 Pandas is a module that contains numerous tools for reading and writing to data in table form.  Excel files and csv files can be read and parsed using the pandas dataframe. See the [full documentation](https://pandas.pydata.org/pandas-docs/version/0.21/index.html) at the pandas documentation site.  
 
-What I find pandas useful for is interate through a table to extract data from a given column based on the value of another column.  For example, if a table is 20,000 lines long and you need to find the value contained in column D if a value in column A is greater than 17, or some other arbitrary number.  How to set this up is not trivial, nor is it exactly intuitive.  We will get to this problem later on.  For now, we will start off with how to generate some basic descriptive statistics and how to generate basic plots using pandas.
+What I find pandas useful for is iterating through a table to extract data from a given column based on the value of another column.  For example, if a table is 20,000 lines long and you need to find the value contained in column D if a value in column A is greater than 17, or some other arbitrary number.  How to set this up is not trivial, nor is it exactly intuitive.  We will get to this problem later on.  For now, we will start off with how to generate some basic descriptive statistics and how to generate basic plots using pandas.
 
 As example I am going to use a csv file (comma separated values) in order to demonstrate some basic functionality of _pandas_.
 
