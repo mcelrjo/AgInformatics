@@ -21,7 +21,7 @@ print type(dataFile)
 
 print dataFile
 
-# what printed?
+# what printed?  What does that tell you?
 ```
 By importing data using "read_csv" a pandas dataframe was created.  There are dozens of modules and attributes that can be accessed using dot notation.  You will notice at the bottom when the centi object is printed the number of rows and columns in the dataframe -- in this case [1151 rows x 7 columns].  The dataframe is most easily viewed as an Excel spreadsheet or some other spreadsheet.  In fact, the csv file could easily be opened in Excel to view the data.  Excel will recognize the comma-deliminted format of the data and open it accordingly.  
 
