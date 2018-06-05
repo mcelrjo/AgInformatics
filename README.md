@@ -22,9 +22,9 @@ Sections:
 
 7.  Object Oriented Programming II
 
-8.  Introduction to Pandas and Numpy
-	a.  Opening tables, CSV, and Excel Files 
-	b.  Searching through tables
+8.  [Introduction to Pandas](https://github.com/mcelrjo/AgInformatics/blob/master/lectureTopics/pandas.md)
+
+9.  [Plotting with Pylab](https://github.com/mcelrjo/AgInformatics/blob/master/lectureTopics/pylab.md)
 
 9.  [Regular Expressions](https://github.com/mcelrjo/AgInformatics/blob/master/lectureTopics/regularExpressions.md)
 
@@ -49,6 +49,10 @@ Problems and Projects:
 4.  Fibonacci's Rabbits
 
 5.  [Counting letters in a string](https://github.com/mcelrjo/AgInformatics/blob/master/practiceAssignments/countingLetters.txt)
+
+6.  Farenheit to Celsius Conversion
+
+7. Plotting compounding interest
 
 
 Additional links and resources:
