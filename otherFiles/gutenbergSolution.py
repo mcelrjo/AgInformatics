@@ -5,6 +5,12 @@ import re
 #gutenberg = open('GUTINDEX.1997.iso-8859-1.txt', 'r')
 
 def findAuthors(searchFile):
+    '''Takes a Gutenberg-year text file and searches the file for using a 
+    regular expression for authors.  
+    searchFile: a text file or complete path to text file
+    RETURNS: dict, of authors and the number of titles in the list
+    '''
+
     openSearch = openFile(searchFile)
     
     #regex = r'by ([\D\s]+)\d*'
@@ -12,16 +18,13 @@ def findAuthors(searchFile):
     dictAuthors = {}
     
     for line in openSearch:
-        if line.startswith(' '):
+        result = regexLine(regex, line)
+        if result in dictAuthors.keys():
+            dictAuthors[result] += 1
+        elif result == 0:
             pass
         else:
-            result = regexLine(regex, line)
-            if result in dictAuthors.keys():
-                dictAuthors[result] += 1
-            elif result == 0:
-                pass
-            else:
-                dictAuthors[result] = 1
+            dictAuthors[result] = 1
                 
     closeFile(openSearch)
                 
@@ -29,19 +32,30 @@ def findAuthors(searchFile):
             
             
 def openFile(fileToOpen, mode='r'):
+    '''Opens file in write mode and returns the open file object.
+    fileToOpen:  text file or path to text file
+    '''
     
     openFile = open(fileToOpen, mode)
     
     return openFile
     
 def closeFile(fileToClose):
-    
+    '''Closes file object
+    fileToClose: FILE object
+    '''
     fileToClose.close()
     
     print "input files are closed"
             
         
 def regexLine(regex, line):
+    '''Conducts a regular expression search and returns the first item in 
+    the tuple search.  
+    regex: STR, regular expression phrase.
+    line: STR, string to be searched
+    RETURNS: STR from the regular expression search
+    '''
     
     output = re.search(regex, line)
     try:
@@ -94,9 +108,3 @@ pylab.yticks(width, authors)
 
 pylab.show()
 
-l = []
-for i in range(1,100):
-    l.append((i**3)/2.0)
-    
-pylab.plot(l, linewidth = 10, color='r')
-pylab.show()
