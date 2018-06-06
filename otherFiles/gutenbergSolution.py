@@ -71,13 +71,12 @@ newDict = findAuthors('GUTINDEX.1997.iso-8859-1.txt')
 
 print newDict
 
-# regex = r'by ([\w\s]+)[ \t]\d+'
-# 
-# r = regexLine(regex, 'Cymbeline, by William Shakespeare                                         1133C')
-# 
-# print r
 
 def sortByValue(dictionary):
+    '''Remember that dictionaries cannot be sorted.  This bit of code sorts a
+    dict based on value into a list of tuples with the first item in the tuple as the 
+    key and the second item as the value.
+    '''
     sortedDict = sorted(dictionary.items(), key = lambda t: t[1])
     return sortedDict
     
@@ -85,9 +84,13 @@ def sortByValue(dictionary):
     
 sortedAuthors = sortByValue(newDict)
 
-topTen = sortedAuthors[-10:]
+topTen = sortedAuthors[-10:]  # grab the last 10 items in the sorted list
 
 def getAuthorValues(authorList):
+    '''Take the list-tuple converted dictionary and convert it to two different 
+    lists containing the authors and number of books.  Both lists are sorted in 
+    corresponding order.
+    '''
     author = []
     number = []
     for item in authorList:
