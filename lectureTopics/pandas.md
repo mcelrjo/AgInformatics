@@ -115,18 +115,34 @@ dataFile.pivot_table(values='control', index=['cultivar', 'pylex', 'sprint']).pl
 ```
 For more information see the [Pandas Dataframe Plot method](https://pandas.pydata.org/pandas-docs/version/0.21/generated/pandas.DataFrame.plot.html).
 
-### Special Project
+### Plotting with pandas
 
-To learn more about Pandas dataframes and interesting attributes you are going to download a federal data set, manipulate the data, and create figures.  The dataset can be found [here](https://catalog.data.gov/dataset/population-by-country-1980-2010).  The data is population by country from 1980 to 2010.  Be advised that this is not a straight forward data set.  You are going to have to do a few manipulations before creating figures.  Just so you know the data are in millions of people.  
+Direct plotting with pandas does not seem to have as much flexibility as with Pylab or matplotlib, but it seems to be a lot simplier and intuitive. Check out the [Pandas documentation on plotting](http://pandas.pydata.org/pandas-docs/version/0.22/generated/pandas.DataFrame.plot.html)for more information.  We will cover some of the useful stuff in class.  
 
-##### Part 1:  Understanding the data
+### Using Groupby()
 
-For the first part of this project, come to an understanding of how the data is organized and arranged.  Create a figure of five different countries in a line graph that includes: legend, x label, y label, and title.  Save this image as a jpg with your last name as part of the name.  
+The _groupby()_ function is useful to compute summary statistics for unique items columns.  In the test datafile there are 'cultivars', 'trts', and 'reps' (also a factorial arrangement of _pylex_ and _sprint_ treatments).  Groupby can isolate the items in these columns to aid in computing summary statistics.  Try some of the following test cases.
 
-##### Part 2:  Create a function
+```python
 
-Create a usable function that a user can enter a country name and it will create a figure of population change for that country.  Adapt the function that allows a user to enter up to five country names.  Think about how you are going to resolve typos, misspelling, or capitalization.  Save this function with your last name as part of the name and drop it in the shared box folder.
+print dataFile.groupby('cultivar').sum()
 
+print dataFile.groupby('cultivar').mean()
+
+print dataFile.groupby('cultivar')['pylex'].mean()
+
+```
+
+In this data since there is a factorial arrangement, it would be useful to look at 'cultivar', 'pylex', and 'sprint' simultaneusly. Can you figure out how to do this? Also, can you plot this data as a horizontal bar chart only using 'control' as y-value?
+
+[Aggregate](https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.aggregate.html) can also be a useful function for isolating data across multiple columns.  Tak a look at the documentation on pandas aggregate.  With aggregate() one can call different summary statistics on a groupby data set with the option of isolating different dependent variables (in our case 'control')using a library call (see below).
+
+```python
+print dataFile.groupby('cultivar').aggregate(['mean', 'min', np.median, max])
+
+print dataFile.groupby('cultivar').aggregate({'control':['mean', 'min', np.median, max]})
+
+```
 
 ### Using the Index
 
@@ -153,3 +169,28 @@ for i in population.index:
 	print i
 ```
 This will actually print all the indexes individually.  Now consider that this can allow you to do.  What if you wanted to create a line chart of all the countries that have greater than 100 million population starting in 1980.  
+
+### Special Project
+
+To learn more about Pandas dataframes and interesting attributes you are going to download a federal data set, manipulate the data, and create figures.  The dataset can be found [here](https://catalog.data.gov/dataset/population-by-country-1980-2010).  The data is population by country from 1980 to 2010.  Be advised that this is not a straight forward data set.  You are going to have to do a few manipulations before creating figures.  Just so you know the data are in millions of people.  
+
+##### Part 1:  Understanding the data
+
+For the first part of this project, come to an understanding of how the data is organized and arranged.  Create a figure of five different countries in a line graph that includes: legend, x label, y label, and title.  Save this image as a jpg with your last name as part of the name.  
+
+##### Part 2:  Create a function
+
+Create a usable function that a user can enter a country name and it will create a figure of population change for that country.  Adapt the function that allows a user to enter up to five country names.  Think about how you are going to resolve typos, misspelling, or capitalization.  Save this function with your last name as part of the name and drop it in the shared box folder.
+
+
+### Special Project #2
+
+Download the shortTrinotate file for this project.  This project is going to come in several parts.
+
+##### Part 1
+
+For this part you want to look in the "sprot_Top_BLASTX_hit" column and if there is not a period "." in in a given entry, write that row to a new file.  So in the end, you have a new trinotate file that has eliminated all the entries that were not annotated for that particular column.
+
+##### Part 2
+
+Develop a regular expression to extract all entries in 'gene_ontology_blast' the first entry of either "molecular_function", "cellular_component", or "biological_process".  Create a figure with this information with three vertical bars of three different colors with each column labeled, an x and y-label, title, and the figure adequately fit to screen.  Save this figure as a tiff or jpg and email to me.  
