@@ -178,9 +178,13 @@ To learn more about Pandas dataframes and interesting attributes you are going t
 
 For the first part of this project, come to an understanding of how the data is organized and arranged.  Create a figure of five different countries in a line graph that includes: legend, x label, y label, and title.  Save this image as a jpg with your last name as part of the name.  
 
+Email me this figure as a jpg, tiff, or other image file.
+
 ##### Part 2:  Create a function
 
 Create a usable function that a user can enter a country name and it will create a figure of population change for that country.  Adapt the function that allows a user to enter up to five country names.  Think about how you are going to resolve typos, misspelling, or capitalization.  Save this function with your last name as part of the name and drop it in the shared box folder.
+
+Email me the function as a stand alone Python script that I can run on my computer.
 
 
 ### Special Project #2
@@ -191,6 +195,10 @@ Download the shortTrinotate file for this project.  This project is going to com
 
 For this part you want to look in the "sprot_Top_BLASTX_hit" column and if there is not a period "." in in a given entry, write that row to a new file.  So in the end, you have a new trinotate file that has eliminated all the entries that were not annotated for that particular column.
 
+Email me the number of lines in the new file.
+
 ##### Part 2
 
 Develop a regular expression to extract all entries in 'gene_ontology_blast' the first entry of either "molecular_function", "cellular_component", or "biological_process".  Create a figure with this information with three vertical bars of three different colors with each column labeled, an x and y-label, title, and the figure adequately fit to screen.  Save this figure as a tiff or jpg and email to me.  
+
+Email me this figure as a jpg, tiff, or other image file.
