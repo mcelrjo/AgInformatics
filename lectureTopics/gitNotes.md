@@ -83,3 +83,17 @@ $ git checkout HEAD <filename>
 ```
 
    Discards changes in the working directory.
+
+
+
+   Once the repository is made and committed, it can be pushed to Github website.
+
+   First, go to the website and create a repository.  After this, you will have initial information like this.  [insert picture]
+
+   Since you have made the initial commit, add the remote repository, and commit it to github.
+
+```
+$ git remote add origin https://github.com/mcelrjo/trinotateExtractor.git
+
+$ git push -u origin master
+```
