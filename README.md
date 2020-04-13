@@ -12,11 +12,15 @@ _Week 1:_
 
 2.  [Conditional Statements and Iteration (Loops)](https://github.com/mcelrjo/AgInformatics/blob/master/conditionalIteration.md)
 
+	__Week 1 Assignment:__ [Calculating the nth prime number](https://github.com/mcelrjo/AgInformatics/blob/master/practiceAssignments/nthPrimeNumber.txt)
+
 _Week 2_
 
 3.  [Functions](https://github.com/mcelrjo/AgInformatics/blob/master/functions.md)
 
 	[__Side note__: Programming Tips](https://github.com/mcelrjo/AgInformatics/blob/master/lectureTopics/sidenotes.md)
+
+	__Week 2 Assignment:__ [Guessing Game: Search Algorithms](https://github.com/mcelrjo/AgInformatics/blob/master/practiceAssignments/theGuessingGame.md)
 
 _Week 3_
 
@@ -24,85 +28,62 @@ _Week 3_
 
 5.  [Opening Files](https://github.com/mcelrjo/AgInformatics/blob/master/lectureTopics/openFiles.md)
 
+	__Week 3 Assignment:__ [Hangman]
+
 _Week 4_
 
-6.  [Object Oriented Programming I](https://github.com/mcelrjo/AgInformatics/blob/master/lectureTopics/oopI.md)
+6.  [Introduction to Pandas](https://github.com/mcelrjo/AgInformatics/blob/master/lectureTopics/pandas.md)
+
+7.  [Plotting with Pylab](https://github.com/mcelrjo/AgInformatics/blob/master/lectureTopics/pylab.md)
+
+
+	__Week 4 Assignment:__ [Count Letters in a String](https://github.com/mcelrjo/AgInformatics/blob/master/practiceAssignments/countingLetters.txt)
+
+	__Use your solution:__ [Use your program to count nucleotides in this string](https://github.com/mcelrjo/AgInformatics/blob/master/otherFiles/NC_012920.1.fasta). Email me your figure and final count. 
+
 
 _Week 5_
 
-7.  Object Oriented Programming II
+8.  [Object Oriented Programming I](https://github.com/mcelrjo/AgInformatics/blob/master/lectureTopics/oopI.md)
+
+	__Week 5 and 6 Assignment:__ [The Crop Object](https://github.com/mcelrjo/AgInformatics/blob/master/practiceAssignments/cropModel_YOURNAMEHERE.md)
 
 _Week 6_
 
-8.  [Introduction to Pandas](https://github.com/mcelrjo/AgInformatics/blob/master/lectureTopics/pandas.md)
+9.  [Object Oriented Programming II](https://github.com/mcelrjo/AgInformatics/blob/master/lectureTopics/oop2.md)
 
-9.  [Plotting with Pylab](https://github.com/mcelrjo/AgInformatics/blob/master/lectureTopics/pylab.md)
+__
 
 _Week 7_
 
-9.  [Regular Expressions](https://github.com/mcelrjo/AgInformatics/blob/master/lectureTopics/regularExpressions.md)
+10.  [Regular Expressions](https://github.com/mcelrjo/AgInformatics/blob/master/lectureTopics/regularExpressions.md)
+
+	__Week 7 Assignment:__[Search and Return]()
+
+	You will need these files [FASTA](https://github.com/mcelrjo/AgInformatics/blob/master/otherFiles/shortFASTA.fasta) and [Trinotate](https://github.com/mcelrjo/AgInformatics/blob/master/otherFiles/shortTrinotate.xls)
 
 _Week 8_
 
-10. Decorators
+11. Decorators
 
-11. Lambda Functions and Miscellaneous Topics
+12. Lambda Functions and Miscellaneous Topics
+
+	__Week 8 and 9 Assignment:__
 
 _Week 9_
 
-11. [Os, Sys, and Argparse Modules](https://github.com/mcelrjo/AgInformatics/blob/master/lectureTopics/osSys.md)
+13. [Os, Sys, and Argparse Modules](https://github.com/mcelrjo/AgInformatics/blob/master/lectureTopics/osSys.md)
 
-13. Executing Functions in the Command line
+14. [Executing Functions in the Command line]()
+
+	__Week 9 Assignment:__ Extend the [Gutenberg Project](https://github.com/mcelrjo/AgInformatics/blob/master/otherFiles/gutenbergSolution.py) to take command line arguments and object oriented programming. Write the output figure to a new file.  
 
 _Week 10_
 
-12. [Git and Github](https://github.com/mcelrjo/AgInformatics/blob/master/lectureTopics/gitNotes.md)
+15. [Git and Github](https://github.com/mcelrjo/AgInformatics/blob/master/lectureTopics/gitNotes.md)
 
+	__Week 10 Final Project:__ You will give a 5-7 minute presetation to the class on your problem, the software you designed to solve the problem, and upload the project to GitHub for the world to see. 
 
-
-*Problems and Projects:*
-
-Week 1
-
-1. First Basic Project
-
-Week 2
-
-2.  [The Guessing Game with While Loops](https://github.com/mcelrjo/AgInformatics/blob/master/practiceAssignments/theGuessingGame.md)
-
-Week 3
-
-2.  [Calculating the nth prime number](https://github.com/mcelrjo/AgInformatics/blob/master/practiceAssignments/nthPrimeNumber.txt)
-
-Week 4
-
-3.  Hangman
-
-Week 5
-
-4.  Fibonacci's Rabbits
-
-Week 6
-
-5.  [Counting letters in a string](https://github.com/mcelrjo/AgInformatics/blob/master/practiceAssignments/countingLetters.txt)
-
-6.  Farenheit to Celsius Conversion
-
-Week 7
-
-7. Working with the Dark Sky API
-
-Week 8
-
-8.  The Field Object
-
-Week 9
-
-9.  Translating DNA
-
-Week 10
-
-10.  Final Projects
 
 
 Additional links and resources:

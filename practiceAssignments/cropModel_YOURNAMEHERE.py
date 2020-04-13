@@ -1,3 +1,10 @@
+'''Below is a outline of an object oriented program you must complete.  It is a
+class called hectareCrop.  hectareCrop is meant to model a given crop with
+common variables of a crop -- how much rainfall it receives, how much N is lost, 
+the yield of the crop, etc.  At the bottom are unit test that run to determine 
+if you have implemented each class function correctly.  
+'''
+
 
 import random, pylab
 
@@ -6,6 +13,11 @@ class hectareCrop(object):
     inputs.
     '''
     def __init__(self, NFert, irrigation):
+        ''' NFert average is 200, as in 200 kg N/ha
+            Irrigation, boolean
+        '''
+        
+        
         pass
         
     def rainfall(self):
@@ -33,13 +45,13 @@ class hectareCrop(object):
         per year N fertility.  A very basic model was used to predict yield where
         yield = rainAmt + (0.25 * N amt in kg/ha).  Need to use NAmt after rainfall
         for calcualtion.  
-        RETURN: self.yearYield wich is the yield in bushels per acre
+        RETURN: self.yearYield which is the yield in bushels per acre
         '''
         pass
         
     def profit(self):
         '''Assume $7 dollar per bushel yield.  However, a loss of $10 for each cm below 
-        50 cm.  If irrigation is True, rainfall is supplemented up to 50 cm if it is 
+        50 cm if irrigation is True.  If irrigation is True, rainfall is supplemented up to 50 cm if it is 
         below.  If rainfall is 50 cm or greater, no additional irrigation takes
         place.
         RETURN grossProfit, not an object attribute
@@ -64,17 +76,17 @@ def modelProfit(NFert, cycles=1000):
 #modelProfit(200)
 
 #Uncomment to run
-# random.seed(1)
-# print("Unit Test 1") 
-# crop1 = hectareCrop(200, False) 
-# money = crop1.profit() 
-# print money #answer is 783.29
-# print crop1.yearYield #answer is 111.899
-# print crop1.rainAmt #answer 62.149
-# print crop1.NFert #answer is 200
-# print crop1.irrigation #answer is False
-# 
-# 
+random.seed(1)
+print("Unit Test 1") 
+crop1 = hectareCrop(200, False) 
+money = crop1.profit() 
+print money #answer is 783.29
+print crop1.yearYield #answer is 111.899
+print crop1.rainAmt #answer 62.149
+print crop1.NFert #answer is 200
+print crop1.irrigation #answer is False
+
+
 # print("Unit Test 2")
 # crop2 = hectareCrop(100, True) 
 # money = crop2.profit()
