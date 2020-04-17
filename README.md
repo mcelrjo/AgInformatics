@@ -28,7 +28,7 @@ _Week 3_
 
 5.  [Opening Files](https://github.com/mcelrjo/AgInformatics/blob/master/lectureTopics/openFiles.md)
 
-	__Week 3 Assignment:__ [Hangman Problem](https://github.com/mcelrjo/AgInformatics/blob/master/practiceAssignments/)hangman_ENTERNAMEHERE.py), [Word List](https://github.com/mcelrjo/AgInformatics/blob/master/practiceAssignments/words.txt) 
+	__Week 3 Assignment:__ [Hangman Problem](https://github.com/mcelrjo/AgInformatics/blob/master/practiceAssignments/hangman_ENTERNAMEHERE.py), [Word List](https://github.com/mcelrjo/AgInformatics/blob/master/practiceAssignments/words.txt) 
 
 _Week 4_
 
