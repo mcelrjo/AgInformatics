@@ -12,7 +12,7 @@ _Week 1:_
 
 2.  [Conditional Statements and Iteration (Loops)](https://github.com/mcelrjo/AgInformatics/blob/master/conditionalIteration.md)
 
-	__Week 1 Assignment:__ [Calculating the nth prime number](https://github.com/mcelrjo/AgInformatics/blob/master/practiceAssignments/nthPrimeNumber.txt)
+	__Week 1 Assignment:__ [Calculating the nth prime number](https://github.com/mcelrjo/AgInformatics/blob/master/practiceAssignments/nthPrimeNumber.md)
 
 _Week 2_
 
@@ -28,7 +28,7 @@ _Week 3_
 
 5.  [Opening Files](https://github.com/mcelrjo/AgInformatics/blob/master/lectureTopics/openFiles.md)
 
-	__Week 3 Assignment:__ [Hangman]
+	__Week 3 Assignment:__ [Hangman Problem](https://github.com/mcelrjo/AgInformatics/blob/master/practiceAssignments/)hangman_ENTERNAMEHERE.py), [Word List](https://github.com/mcelrjo/AgInformatics/blob/master/practiceAssignments/words.txt) 
 
 _Week 4_
 
@@ -58,7 +58,7 @@ _Week 7_
 
 10.  [Regular Expressions](https://github.com/mcelrjo/AgInformatics/blob/master/lectureTopics/regularExpressions.md)
 
-	__Week 7 Assignment:__[Search and Return]()
+	__Week 7 Assignment:__ Search and Return
 
 	You will need these files [FASTA](https://github.com/mcelrjo/AgInformatics/blob/master/otherFiles/shortFASTA.fasta) and [Trinotate](https://github.com/mcelrjo/AgInformatics/blob/master/otherFiles/shortTrinotate.xls)
 
