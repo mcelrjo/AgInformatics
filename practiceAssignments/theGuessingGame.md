@@ -1,50 +1,28 @@
 ## The Guessing Game by Bisection Search
 
-We have covered two types of search algorithms - exaustive enumeration and bisection search.  You have also created a short program to guess a number using a while loop.  Now let's combine these ideas and create a bisection search algorithm to guess a number between 1 and k (k being any number).  There are numerous examples of this on the web so please do not google this.  Sometimes it is bad to google.  I will start you off with some code to work with to help you get started.
+Scenario: Someone tells asks you to guess a number between 1 and 100.  How would you do this and have the least number of guesses.  I present two possible options -- _exhaustive enumeration_ or _bisection search_.
 
-Something to remember, these types of searches work only on ordered lists.  Bisection search is dividing an ordered sequence every pass through to decrease the search space in which the answer lies.  If the sequence is unordered there is no way to cut the list.
+*Exhaustive enumeration* goes through each possible answer one by one until the answer is reached. In other words, you would answer "Is it 1?" and receive a yes or no answer.  Then, "is it 2?"  Yes or no, so on and so forth until you arrive at the correct answer.
 
-```python
-high = 1000
-low = 0
-guess = (high + low)/2
+*Bisection search* attempts to cut the search space in half at each iteration.  At the first turn, one would start at the mid point and if the guess is incorrect, it would ask if the answer is higher or lower than the guess.  The next iteration would take the midpoint of the search space and repeat the guess and halving of the search space.  
 
-numGuesses = 0
+The problem is that exhaustive enumeration searches one by one through all possibilities.  It is __computationally intensive__.  If there are a million numbers the average number of guesses per number would be 1,000,000 divided by 2 - 500,000.  Considering having to search through hundreds, thousands, or millions of individual numbers.  The numbers of guesses per search would be 500,000 x X, where x is the number of searches.  
 
-secretNumber = int(raw_input("Enter a number that I will guess: "))
+We need a way to reduce the number of guesses to decrease the computational intensity.  _Bisection search_ is used to cut the search space in half at every iteration.  Using bisection search, can reduce very large searches spaces to just a few guesses, greatly reducing the computational intensity.  
 
-stillGuessing = True 
 
-while stillGuessing:
-	pass
+#### The problem
 
-print "And it only took this many guesses: ", numGuesses
-```
+Develop two functions -- exhaustiveSearch and bisectionSearch.  
 
-Think about how this search would look with exaustive enumeration.  
+1. Use the module Random to generate a random integer between one and one billion which is used as input to each function.  Pass the integer to each function.
 
-```python
-high = 1000
-low = 0
-guess = low
+2. Each function should arrive at the correct guess.
 
-secretNumber = int(raw_input("Enter an integer between 0 and 1000: "))
+3.  Count the number of guesses that is made.
 
-numGuesses = 0
+4.  Return the answer and the number of guesses made as a string statement from each function.  
 
-stillGuessing = True 
+5.  Bonus points -- use the module Time to correctly time the speed of each function and report the time in seconds in the returned string.
 
-while stillGuessing:
-	if secretNumber < low or secretNumber > high:
-		stillGuessing = False
-		print "Guess a number between 0 and ", high
-	elif guess == secretNumber:
-		stillGuessing = False
-		print "The secret number was ", guess
-	else:
-		print "The last guess was wrong. Last guess: ", guess
-		guess += 1
-		numGuesses +=1
-
-print "And it only took this many guesses: ", numGuesses
-```
+:octocat:
