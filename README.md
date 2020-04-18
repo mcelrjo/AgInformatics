@@ -52,7 +52,6 @@ _Week 6_
 
 9.  [Object Oriented Programming II](https://github.com/mcelrjo/AgInformatics/blob/master/lectureTopics/oop2.md)
 
-__
 
 _Week 7_
 
@@ -74,7 +73,7 @@ _Week 9_
 
 13. [Os, Sys, and Argparse Modules](https://github.com/mcelrjo/AgInformatics/blob/master/lectureTopics/osSys.md)
 
-14. [Executing Functions in the Command line]()
+14. [Executing Functions in the Command line](https://github.com/mcelrjo/AgInformatics/blob/master/lectureTopic)
 
 	__Week 9 Assignment:__ Extend the [Gutenberg Project](https://github.com/mcelrjo/AgInformatics/blob/master/otherFiles/gutenbergSolution.py) to take command line arguments and object oriented programming. Write the output figure to a new file.  
 
@@ -82,7 +81,7 @@ _Week 10_
 
 15. [Git and Github](https://github.com/mcelrjo/AgInformatics/blob/master/lectureTopics/gitNotes.md)
 
-	__Week 10 Final Project:__ You will give a 5-7 minute presetation to the class on your problem, the software you designed to solve the problem, and upload the project to GitHub for the world to see. 
+	__Week 10 Final Project:__ [Final Project](https://github.com/mcelrjo/AgInformatics/blob/master/lectureTopics/FinalProject.md) 
 
 
 
