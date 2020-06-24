@@ -66,7 +66,7 @@ def modelYield(NFert, Irrigation= False, cycles = 10000):
     
 #modelYield(200)
  
-def modelProfit(NFert, cycles=1000):
+def modelProfit(NFert, cycles=10000):
     '''Model profit for 10,000 iterations for both irrigated and non-irrigated.
     Plot the predictions in four (2x2) subplot windows - histogram and boxplot for
     each of the data sets.
