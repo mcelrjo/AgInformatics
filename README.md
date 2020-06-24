@@ -46,7 +46,7 @@ _Week 5_
 
 8.  [Object Oriented Programming I](https://github.com/mcelrjo/AgInformatics/blob/master/lectureTopics/oopI.md)
 
-	__Week 5 and 6 Assignment:__ [The Crop Object](https://github.com/mcelrjo/AgInformatics/blob/master/practiceAssignments/cropModel_YOURNAMEHERE.md)
+	__Week 5 and 6 Assignment:__ [The Crop Object](https://github.com/mcelrjo/AgInformatics/blob/master/practiceAssignments/cropModel_YOURNAMEHERE.py)
 
 _Week 6_
 
