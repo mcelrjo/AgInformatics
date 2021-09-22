@@ -84,16 +84,45 @@ $ git checkout HEAD <filename>
 
    Discards changes in the working directory.
 
-
-
-   Once the repository is made and committed, it can be pushed to Github website.
-
-   First, go to the website and create a repository.  After this, you will have initial information like this.  [insert picture]
-
-   Since you have made the initial commit, add the remote repository, and commit it to github.
-
 ```
 $ git remote add origin https://github.com/mcelrjo/trinotateExtractor.git
 
 $ git push -u origin master
 ```
+
+#### A real example
+
+If you want to start a GitHub Repository, here is how you get started.
+
+First, go to the website and create a repository.  After this, you will have initial information like this.  [insert picture]  
+
+Copy the github repository link and head back to your command line to connect Github with your repository.
+
+```
+$ git remote add origin https://github.com/mcelrjo/trinotateExtractor.git
+```
+This connects whatever directory you are in with the GitHub repository.
+
+Now, make a file of some kind -- something.py, for instance. Then add it to the repository and push it to Github.
+
+```
+$ git add something.py
+```
+Now commit the added file and add a message to let everyone know what you have committed.
+
+```
+$ git commit -m "My first commit"
+```
+Now push it to Github -- it will require you username and password.
+
+```
+$ git push -u origin master
+```
+
+#### Practice #1
+
+Create a README.md file and push it to Github.
+
+#### Pracitce #2
+
+What is Markdown and how can you use it to improve your README files? Update your README to describe the project you are working on -- use headers, lists, bold, italics, etc. Also, how can you add emoji to GitHub?

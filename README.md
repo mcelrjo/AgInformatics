@@ -6,68 +6,68 @@ The class [SYLLABUS](https://github.com/mcelrjo/AgInformatics/blob/master/Aginfo
 
 *Sections:*
 
-_Week 1:_
+_Week 1: Introduction to BASH_
+
+1. [Introduction to the Command Line and BASH](https://github.com/mcelrjo/AgInformatics/blob/master/lectureTopics/bash.md)
+
+2. [BASH Functions](https://github.com/mcelrjo/AgInformatics/blob/master/lectureTopics/bash_functions.md)
+
+3. [The basics of BASH scripting](https://github.com/mcelrjo/AgInformatics/blob/master/lectureTopics/bash_scripting_intro.md)
+
+_Week 2: Introduction to Python_
 
 1.  [Variables, Objects, and Mathematical Operations](https://github.com/mcelrjo/AgInformatics/blob/master/variables.md)
 
 2.  [Conditional Statements and Iteration (Loops)](https://github.com/mcelrjo/AgInformatics/blob/master/conditionalIteration.md)
 
-	__Week 1 Assignment:__ [Calculating the nth prime number](https://github.com/mcelrjo/AgInformatics/blob/master/practiceAssignments/nthPrimeNumber.md)
+	__Week 2 Assignment:__ [Calculating the nth prime number](https://github.com/mcelrjo/AgInformatics/blob/master/practiceAssignments/nthPrimeNumber.md)
 
-_Week 2_
+_Week 3_
 
 3.  [Functions](https://github.com/mcelrjo/AgInformatics/blob/master/functions.md)
 
 	[__Side note__: Programming Tips](https://github.com/mcelrjo/AgInformatics/blob/master/lectureTopics/sidenotes.md)
 
-	__Week 2 Assignment:__ [Guessing Game: Search Algorithms](https://github.com/mcelrjo/AgInformatics/blob/master/practiceAssignments/theGuessingGame.md)
+	__Week 3 Assignment:__ [Guessing Game: Search Algorithms](https://github.com/mcelrjo/AgInformatics/blob/master/practiceAssignments/theGuessingGame.md)
 
-_Week 3_
+_Week 4_
 
 4. [Try/Except Statements](https://github.com/mcelrjo/AgInformatics/blob/master/lectureTopics/tryExcept.md)
 
 5.  [Opening Files](https://github.com/mcelrjo/AgInformatics/blob/master/lectureTopics/openFiles.md)
 
-	__Week 3 Assignment:__ [Hangman Problem](https://github.com/mcelrjo/AgInformatics/blob/master/practiceAssignments/hangman_ENTERNAMEHERE.py), [Word List](https://github.com/mcelrjo/AgInformatics/blob/master/practiceAssignments/words.txt) 
+	__Week 4 Assignment:__ [Hangman Problem](https://github.com/mcelrjo/AgInformatics/blob/master/practiceAssignments/hangman_ENTERNAMEHERE.py), [Word List](https://github.com/mcelrjo/AgInformatics/blob/master/practiceAssignments/words.txt) 
 
-_Week 4_
+_Week 5_
 
 6.  [Introduction to Pandas](https://github.com/mcelrjo/AgInformatics/blob/master/lectureTopics/pandas.md)
 
 7.  [Plotting with Pylab](https://github.com/mcelrjo/AgInformatics/blob/master/lectureTopics/pylab.md)
 
 
-	__Week 4 Assignment:__ [Count Letters in a String](https://github.com/mcelrjo/AgInformatics/blob/master/practiceAssignments/countingLetters.txt)
+	__Week 5 Assignment:__ [Count Letters in a String](https://github.com/mcelrjo/AgInformatics/blob/master/practiceAssignments/countingLetters.txt)
 
 	__Use your solution:__ [Use your program to count nucleotides in this string](https://github.com/mcelrjo/AgInformatics/blob/master/otherFiles/NC_012920.1.fasta). Email me your figure and final count. 
 
 
-_Week 5_
+_Week 6_
 
 8.  [Object Oriented Programming I](https://github.com/mcelrjo/AgInformatics/blob/master/lectureTopics/oopI.md)
 
 	__Week 5 and 6 Assignment:__ [The Crop Object](https://github.com/mcelrjo/AgInformatics/blob/master/practiceAssignments/cropModel_YOURNAMEHERE.py)
 
-_Week 6_
+_Week 7_
 
 9.  [Object Oriented Programming II](https://github.com/mcelrjo/AgInformatics/blob/master/lectureTopics/oop2.md)
 
 
-_Week 7_
+_Week 8_
 
 10.  [Regular Expressions](https://github.com/mcelrjo/AgInformatics/blob/master/lectureTopics/regularExpressions.md)
 
-	__Week 7 Assignment:__ Search and Return
+__Week 7 Assignment:__ Search and Return
 
-	You will need these files [FASTA](https://github.com/mcelrjo/AgInformatics/blob/master/otherFiles/shortFASTA.fasta) and [Trinotate](https://github.com/mcelrjo/AgInformatics/blob/master/otherFiles/shortTrinotate.xls)
-
-_Week 8_
-
-11. Decorators
-
-12. Lambda Functions and Miscellaneous Topics
-
-	__Week 8 and 9 Assignment:__
+You will need these files: [FASTA](https://github.com/mcelrjo/AgInformatics/blob/master/otherFiles/shortFASTA.fasta) and [Trinotate](https://github.com/mcelrjo/AgInformatics/blob/master/otherFiles/shortTrinotate.xls)
 
 _Week 9_
 
